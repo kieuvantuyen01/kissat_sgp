@@ -1,0 +1,1276 @@
+c input/binary/cnf_noALO/10x10_120.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_121.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_122.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_123.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_124.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_130.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_131.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_132.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_133.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_134.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_135.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_136.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_137.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_139.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x10_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_142.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_143.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_144.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x10_145.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/10x15_387.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x15_388.cnf
+s SATISFIABLE
+c process-time: 0.17 seconds
+-----
+c input/binary/cnf_noALO/10x15_389.cnf
+s SATISFIABLE
+c process-time: 0.09 seconds
+-----
+c input/binary/cnf_noALO/10x15_390.cnf
+s SATISFIABLE
+c process-time: 0.20 seconds
+-----
+c input/binary/cnf_noALO/10x15_396.cnf
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input/binary/cnf_noALO/10x15_397.cnf
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input/binary/cnf_noALO/10x15_398.cnf
+s SATISFIABLE
+c process-time: 1s 0.96 seconds
+-----
+c input/binary/cnf_noALO/10x15_399.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/10x15_400.cnf
+s SATISFIABLE
+c process-time: 0.43 seconds
+-----
+c input/binary/cnf_noALO/10x18_186.cnf
+s SATISFIABLE
+c process-time: 0.14 seconds
+-----
+c input/binary/cnf_noALO/10x18_187.cnf
+s SATISFIABLE
+c process-time: 2s 2.03 seconds
+-----
+c input/binary/cnf_noALO/10x18_198.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x18_199.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x18_200.cnf
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input/binary/cnf_noALO/10x18_208.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x18_209.cnf
+s SATISFIABLE
+c process-time: 0.12 seconds
+-----
+c input/binary/cnf_noALO/10x18_414.cnf
+s SATISFIABLE
+c process-time: 0.05 seconds
+-----
+c input/binary/cnf_noALO/10x18_415.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/10x18_416.cnf
+s SATISFIABLE
+c process-time: 0.14 seconds
+-----
+c input/binary/cnf_noALO/10x18_417.cnf
+s SATISFIABLE
+c process-time: 0.23 seconds
+-----
+c input/binary/cnf_noALO/11x11_120.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_121.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_122.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_123.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/11x11_124.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_130.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/11x11_131.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_132.cnf
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input/binary/cnf_noALO/11x11_133.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/11x11_134.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_135.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_136.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/11x11_137.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_139.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_140.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/11x11_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_142.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/11x11_143.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/11x11_144.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/11x11_145.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x12_120.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_121.cnf
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input/binary/cnf_noALO/12x12_122.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_123.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x12_124.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/12x12_130.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x12_131.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/12x12_132.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_133.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x12_134.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_135.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_136.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/12x12_137.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x12_139.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/12x12_140.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x12_142.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_143.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_144.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x12_145.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/12x15_39.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/12x15_43.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/12x15_45.cnf
+s SATISFIABLE
+c process-time: 0.47 seconds
+-----
+c input/binary/cnf_noALO/12x15_46.cnf
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input/binary/cnf_noALO/12x23_210.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/13x13_120.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/13x13_121.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/13x13_122.cnf
+s SATISFIABLE
+c process-time: 1s 0.82 seconds
+-----
+c input/binary/cnf_noALO/13x13_123.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/13x13_124.cnf
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input/binary/cnf_noALO/13x13_130.cnf
+s SATISFIABLE
+c process-time: 0.27 seconds
+-----
+c input/binary/cnf_noALO/13x13_131.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/13x13_132.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/13x13_133.cnf
+s SATISFIABLE
+c process-time: 0.16 seconds
+-----
+c input/binary/cnf_noALO/13x13_134.cnf
+s SATISFIABLE
+c process-time: 2s 1.70 seconds
+-----
+c input/binary/cnf_noALO/13x13_135.cnf
+s SATISFIABLE
+c process-time: 0.12 seconds
+-----
+c input/binary/cnf_noALO/13x13_136.cnf
+s SATISFIABLE
+c process-time: 0.13 seconds
+-----
+c input/binary/cnf_noALO/13x13_137.cnf
+s SATISFIABLE
+c process-time: 0.05 seconds
+-----
+c input/binary/cnf_noALO/13x13_138.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/13x13_139.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/13x13_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/13x13_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/13x13_142.cnf
+s SATISFIABLE
+c process-time: 0.15 seconds
+-----
+c input/binary/cnf_noALO/13x13_143.cnf
+s SATISFIABLE
+c process-time: 0.08 seconds
+-----
+c input/binary/cnf_noALO/13x13_144.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/13x13_145.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_120.cnf
+s SATISFIABLE
+c process-time: 0.32 seconds
+-----
+c input/binary/cnf_noALO/14x14_121.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_122.cnf
+s SATISFIABLE
+c process-time: 0.09 seconds
+-----
+c input/binary/cnf_noALO/14x14_123.cnf
+s SATISFIABLE
+c process-time: 0.15 seconds
+-----
+c input/binary/cnf_noALO/14x14_124.cnf
+s SATISFIABLE
+c process-time: 0.08 seconds
+-----
+c input/binary/cnf_noALO/14x14_130.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_131.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_132.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_133.cnf
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input/binary/cnf_noALO/14x14_134.cnf
+s SATISFIABLE
+c process-time: 1s 0.71 seconds
+-----
+c input/binary/cnf_noALO/14x14_135.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_136.cnf
+s SATISFIABLE
+c process-time: 0.20 seconds
+-----
+c input/binary/cnf_noALO/14x14_137.cnf
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input/binary/cnf_noALO/14x14_138.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/14x14_139.cnf
+s SATISFIABLE
+c process-time: 0.30 seconds
+-----
+c input/binary/cnf_noALO/14x14_140.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/14x14_141.cnf
+s SATISFIABLE
+c process-time: 0.12 seconds
+-----
+c input/binary/cnf_noALO/14x14_142.cnf
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input/binary/cnf_noALO/14x14_143.cnf
+s SATISFIABLE
+c process-time: 0.10 seconds
+-----
+c input/binary/cnf_noALO/14x14_144.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/14x14_145.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/14x24_105.cnf
+s SATISFIABLE
+c process-time: 3s 3.44 seconds
+-----
+c input/binary/cnf_noALO/14x24_110.cnf
+s SATISFIABLE
+c process-time: 2s 2.13 seconds
+-----
+c input/binary/cnf_noALO/14x24_113.cnf
+s SATISFIABLE
+c process-time: 1s 0.58 seconds
+-----
+c input/binary/cnf_noALO/14x24_117.cnf
+s SATISFIABLE
+c process-time: 2s 2.34 seconds
+-----
+c input/binary/cnf_noALO/14x24_129.cnf
+s SATISFIABLE
+c process-time: 36s 35.76 seconds
+-----
+c input/binary/cnf_noALO/14x24_139.cnf
+s SATISFIABLE
+c process-time: 11s 10.59 seconds
+-----
+c input/binary/cnf_noALO/14x24_147.cnf
+s SATISFIABLE
+c process-time: 2s 1.79 seconds
+-----
+c input/binary/cnf_noALO/14x24_148.cnf
+s SATISFIABLE
+c process-time: 20s 19.76 seconds
+-----
+c input/binary/cnf_noALO/14x24_157.cnf
+s SATISFIABLE
+c process-time: 1s 0.51 seconds
+-----
+c input/binary/cnf_noALO/14x24_158.cnf
+s SATISFIABLE
+c process-time: 6s 6.23 seconds
+-----
+c input/binary/cnf_noALO/14x24_169.cnf
+s SATISFIABLE
+c process-time: 38s 38.02 seconds
+-----
+c input/binary/cnf_noALO/14x24_179.cnf
+s SATISFIABLE
+c process-time: 10s 9.69 seconds
+-----
+c input/binary/cnf_noALO/14x24_188.cnf
+s SATISFIABLE
+c process-time: 3s 3.48 seconds
+-----
+c input/binary/cnf_noALO/14x24_189.cnf
+s SATISFIABLE
+c process-time: 1s 1.27 seconds
+-----
+c input/binary/cnf_noALO/14x24_190.cnf
+s SATISFIABLE
+c process-time: 11s 11.03 seconds
+-----
+c input/binary/cnf_noALO/14x24_199.cnf
+s SATISFIABLE
+c process-time: 0.45 seconds
+-----
+c input/binary/cnf_noALO/14x24_200.cnf
+s SATISFIABLE
+c process-time: 4m 17s 257.10 seconds
+-----
+c input/binary/cnf_noALO/14x24_208.cnf
+s SATISFIABLE
+c process-time: 5s 4.65 seconds
+-----
+c input/binary/cnf_noALO/14x24_209.cnf
+s SATISFIABLE
+c process-time: 7s 7.36 seconds
+-----
+c input/binary/cnf_noALO/14x24_218.cnf
+s SATISFIABLE
+c process-time: 9s 8.84 seconds
+-----
+c input/binary/cnf_noALO/14x24_219.cnf
+s SATISFIABLE
+c process-time: 17s 16.70 seconds
+-----
+c input/binary/cnf_noALO/14x24_418.cnf
+s SATISFIABLE
+c process-time: 10s 9.76 seconds
+-----
+c input/binary/cnf_noALO/14x24_419.cnf
+s SATISFIABLE
+c process-time: 1s 1.28 seconds
+-----
+c input/binary/cnf_noALO/14x24_420.cnf
+s SATISFIABLE
+c process-time: 26s 25.77 seconds
+-----
+c input/binary/cnf_noALO/15x15_120.cnf
+s SATISFIABLE
+c process-time: 1s 0.51 seconds
+-----
+c input/binary/cnf_noALO/15x15_121.cnf
+s SATISFIABLE
+c process-time: 0.13 seconds
+-----
+c input/binary/cnf_noALO/15x15_122.cnf
+s SATISFIABLE
+c process-time: 0.21 seconds
+-----
+c input/binary/cnf_noALO/15x15_123.cnf
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input/binary/cnf_noALO/15x15_124.cnf
+s SATISFIABLE
+c process-time: 1s 1.39 seconds
+-----
+c input/binary/cnf_noALO/15x15_130.cnf
+s SATISFIABLE
+c process-time: 0.08 seconds
+-----
+c input/binary/cnf_noALO/15x15_131.cnf
+s SATISFIABLE
+c process-time: 0.16 seconds
+-----
+c input/binary/cnf_noALO/15x15_132.cnf
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input/binary/cnf_noALO/15x15_133.cnf
+s SATISFIABLE
+c process-time: 1s 0.57 seconds
+-----
+c input/binary/cnf_noALO/15x15_134.cnf
+s SATISFIABLE
+c process-time: 0.28 seconds
+-----
+c input/binary/cnf_noALO/15x15_135.cnf
+s SATISFIABLE
+c process-time: 0.13 seconds
+-----
+c input/binary/cnf_noALO/15x15_136.cnf
+s SATISFIABLE
+c process-time: 0.15 seconds
+-----
+c input/binary/cnf_noALO/15x15_137.cnf
+s SATISFIABLE
+c process-time: 0.39 seconds
+-----
+c input/binary/cnf_noALO/15x15_138.cnf
+s SATISFIABLE
+c process-time: 0.30 seconds
+-----
+c input/binary/cnf_noALO/15x15_139.cnf
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input/binary/cnf_noALO/15x15_140.cnf
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input/binary/cnf_noALO/15x15_141.cnf
+s SATISFIABLE
+c process-time: 1s 0.73 seconds
+-----
+c input/binary/cnf_noALO/15x15_142.cnf
+s SATISFIABLE
+c process-time: 1s 0.64 seconds
+-----
+c input/binary/cnf_noALO/15x15_143.cnf
+s SATISFIABLE
+c process-time: 0.09 seconds
+-----
+c input/binary/cnf_noALO/15x15_144.cnf
+s SATISFIABLE
+c process-time: 1s 0.93 seconds
+-----
+c input/binary/cnf_noALO/15x15_145.cnf
+s SATISFIABLE
+c process-time: 0.16 seconds
+-----
+c input/binary/cnf_noALO/15x20_307.cnf
+s SATISFIABLE
+c process-time: 7m 39s 458.52 seconds
+-----
+c input/binary/cnf_noALO/15x20_308.cnf
+s SATISFIABLE
+c process-time: 14s 13.69 seconds
+-----
+c input/binary/cnf_noALO/15x20_309.cnf
+c process-time: 30m 1799.69 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/15x20_310.cnf
+s SATISFIABLE
+c process-time: 58s 57.92 seconds
+-----
+c input/binary/cnf_noALO/15x20_317.cnf
+s SATISFIABLE
+c process-time: 2s 2.49 seconds
+-----
+c input/binary/cnf_noALO/15x20_318.cnf
+s SATISFIABLE
+c process-time: 18s 18.28 seconds
+-----
+c input/binary/cnf_noALO/15x20_319.cnf
+s SATISFIABLE
+c process-time: 11m 8s 668.01 seconds
+-----
+c input/binary/cnf_noALO/15x20_320.cnf
+s SATISFIABLE
+c process-time: 1m 11s 71.39 seconds
+-----
+c input/binary/cnf_noALO/17x17_100.cnf
+s SATISFIABLE
+c process-time: 7s 6.58 seconds
+-----
+c input/binary/cnf_noALO/17x17_104.cnf
+s SATISFIABLE
+c process-time: 1s 0.92 seconds
+-----
+c input/binary/cnf_noALO/17x17_109.cnf
+s SATISFIABLE
+c process-time: 2s 1.80 seconds
+-----
+c input/binary/cnf_noALO/17x17_112.cnf
+s SATISFIABLE
+c process-time: 0.13 seconds
+-----
+c input/binary/cnf_noALO/17x17_116.cnf
+s SATISFIABLE
+c process-time: 0.34 seconds
+-----
+c input/binary/cnf_noALO/17x17_120.cnf
+s SATISFIABLE
+c process-time: 11s 10.66 seconds
+-----
+c input/binary/cnf_noALO/17x17_128.cnf
+s SATISFIABLE
+c process-time: 3s 2.68 seconds
+-----
+c input/binary/cnf_noALO/17x17_136.cnf
+s SATISFIABLE
+c process-time: 0.10 seconds
+-----
+c input/binary/cnf_noALO/17x17_138.cnf
+s SATISFIABLE
+c process-time: 2s 1.93 seconds
+-----
+c input/binary/cnf_noALO/17x17_165.cnf
+s SATISFIABLE
+c process-time: 2s 1.62 seconds
+-----
+c input/binary/cnf_noALO/17x17_166.cnf
+s SATISFIABLE
+c process-time: 25s 25.19 seconds
+-----
+c input/binary/cnf_noALO/17x17_167.cnf
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input/binary/cnf_noALO/17x17_168.cnf
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input/binary/cnf_noALO/17x17_175.cnf
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input/binary/cnf_noALO/17x17_176.cnf
+s SATISFIABLE
+c process-time: 1m 17s 76.91 seconds
+-----
+c input/binary/cnf_noALO/17x17_177.cnf
+s SATISFIABLE
+c process-time: 0.39 seconds
+-----
+c input/binary/cnf_noALO/17x17_178.cnf
+s SATISFIABLE
+c process-time: 0.12 seconds
+-----
+c input/binary/cnf_noALO/17x17_187.cnf
+s SATISFIABLE
+c process-time: 1s 1.19 seconds
+-----
+c input/binary/cnf_noALO/17x17_188.cnf
+s SATISFIABLE
+c process-time: 1s 1.11 seconds
+-----
+c input/binary/cnf_noALO/17x17_197.cnf
+s SATISFIABLE
+c process-time: 4s 3.87 seconds
+-----
+c input/binary/cnf_noALO/17x17_198.cnf
+s SATISFIABLE
+c process-time: 0.47 seconds
+-----
+c input/binary/cnf_noALO/17x17_230.cnf
+s SATISFIABLE
+c process-time: 1s 0.84 seconds
+-----
+c input/binary/cnf_noALO/17x17_240.cnf
+s SATISFIABLE
+c process-time: 2s 1.82 seconds
+-----
+c input/binary/cnf_noALO/17x17_250.cnf
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input/binary/cnf_noALO/17x17_260.cnf
+s SATISFIABLE
+c process-time: 0.10 seconds
+-----
+c input/binary/cnf_noALO/17x17_270.cnf
+s SATISFIABLE
+c process-time: 0.17 seconds
+-----
+c input/binary/cnf_noALO/17x17_429.cnf
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input/binary/cnf_noALO/17x17_439.cnf
+s SATISFIABLE
+c process-time: 15s 15.22 seconds
+-----
+c input/binary/cnf_noALO/17x17_449.cnf
+s SATISFIABLE
+c process-time: 4s 3.65 seconds
+-----
+c input/binary/cnf_noALO/20x20_430.cnf
+s SATISFIABLE
+c process-time: 25s 25.34 seconds
+-----
+c input/binary/cnf_noALO/20x20_440.cnf
+c process-time: 30m 1799.77 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x20_450.cnf
+s SATISFIABLE
+c process-time: 6m 29s 389.07 seconds
+-----
+c input/binary/cnf_noALO/20x36_106.cnf
+s SATISFIABLE
+c process-time: 3m 5s 184.89 seconds
+-----
+c input/binary/cnf_noALO/20x36_114.cnf
+s SATISFIABLE
+c process-time: 7m 27s 447.07 seconds
+-----
+c input/binary/cnf_noALO/20x36_118.cnf
+c process-time: 30m 1799.73 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_130.cnf
+c process-time: 30m 1799.73 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_140.cnf
+s SATISFIABLE
+c process-time: 25m 8s 1507.53 seconds
+-----
+c input/binary/cnf_noALO/20x36_149.cnf
+c process-time: 30m 1799.81 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_150.cnf
+c process-time: 30m 1799.74 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_159.cnf
+c process-time: 30m 1799.85 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_160.cnf
+c process-time: 30m 1799.71 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_170.cnf
+c process-time: 30m 1799.79 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_180.cnf
+c process-time: 30m 1799.84 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_210.cnf
+c process-time: 30m 1799.72 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/20x36_220.cnf
+c process-time: 30m 1799.74 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/25x25_60.cnf
+s SATISFIABLE
+c process-time: 16s 15.61 seconds
+-----
+c input/binary/cnf_noALO/25x25_66.cnf
+s SATISFIABLE
+c process-time: 3m 36s 216.18 seconds
+-----
+c input/binary/cnf_noALO/25x25_72.cnf
+s SATISFIABLE
+c process-time: 24m 19s 1459.01 seconds
+-----
+c input/binary/cnf_noALO/25x25_78.cnf
+s SATISFIABLE
+c process-time: 21m 33s 1293.10 seconds
+-----
+c input/binary/cnf_noALO/25x42_110.cnf
+c input/binary/cnf_noALO/35x48_190.cnf
+c process-time: 30m 1799.79 seconds
+UNKNOWN
+-----
+c input/binary/cnf_noALO/6x6_120.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_121.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_122.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_123.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_124.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_125.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_130.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_131.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_132.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_133.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_134.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_135.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_136.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_137.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_139.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_142.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_143.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_144.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/6x6_145.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_120.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_121.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_122.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_123.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_124.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_130.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_131.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_132.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_133.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_134.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_135.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_136.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_137.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_139.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_142.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_143.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_144.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/7x7_145.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_120.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_121.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_122.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_123.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_124.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_130.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_131.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_132.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_133.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_134.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_135.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_136.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_137.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_139.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_142.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_143.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_144.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/8x8_145.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_120.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_121.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_122.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_123.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_124.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_130.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_131.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_132.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_133.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_134.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_135.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_136.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_137.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_138.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_139.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_141.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_142.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_143.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_144.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/binary/cnf_noALO/9x9_145.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+UNKNOWN
+-----
+
