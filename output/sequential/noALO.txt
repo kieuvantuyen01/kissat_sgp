@@ -1,6 +1,6 @@
 c input/sequential/cnf_noALO/10x10_120.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/10x10_121.cnf
 s SATISFIABLE
@@ -8,11 +8,11 @@ c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_122.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_123.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_124.cnf
 s SATISFIABLE
@@ -20,15 +20,15 @@ c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_130.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_131.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_132.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_133.cnf
 s SATISFIABLE
@@ -36,902 +36,902 @@ c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_134.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/10x10_135.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_136.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_137.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_138.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_139.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/10x10_140.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_141.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/10x10_142.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/10x10_143.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_144.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x10_145.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/10x15_387.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/10x15_388.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.17 seconds
 -----
 c input/sequential/cnf_noALO/10x15_389.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.20 seconds
 -----
 c input/sequential/cnf_noALO/10x15_390.cnf
 s SATISFIABLE
-c process-time: 0.12 seconds
+c process-time: 0.45 seconds
 -----
 c input/sequential/cnf_noALO/10x15_396.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/10x15_397.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.11 seconds
 -----
 c input/sequential/cnf_noALO/10x15_398.cnf
 s SATISFIABLE
-c process-time: 1s 1.37 seconds
+c process-time: 3s 3.14 seconds
 -----
 c input/sequential/cnf_noALO/10x15_399.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.09 seconds
 -----
 c input/sequential/cnf_noALO/10x15_400.cnf
 s SATISFIABLE
-c process-time: 0.13 seconds
+c process-time: 0.30 seconds
 -----
 c input/sequential/cnf_noALO/10x18_186.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.33 seconds
 -----
 c input/sequential/cnf_noALO/10x18_187.cnf
 s SATISFIABLE
-c process-time: 2s 2.22 seconds
+c process-time: 6s 5.55 seconds
 -----
 c input/sequential/cnf_noALO/10x18_198.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/10x18_199.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.06 seconds
 -----
 c input/sequential/cnf_noALO/10x18_200.cnf
 s SATISFIABLE
-c process-time: 0.21 seconds
+c process-time: 1s 0.60 seconds
 -----
 c input/sequential/cnf_noALO/10x18_208.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/10x18_209.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.16 seconds
 -----
 c input/sequential/cnf_noALO/10x18_414.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/10x18_415.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.09 seconds
 -----
 c input/sequential/cnf_noALO/10x18_416.cnf
 s SATISFIABLE
-c process-time: 0.11 seconds
+c process-time: 0.28 seconds
 -----
 c input/sequential/cnf_noALO/10x18_417.cnf
 s SATISFIABLE
-c process-time: 0.11 seconds
+c process-time: 0.38 seconds
 -----
 c input/sequential/cnf_noALO/11x11_120.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_121.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_122.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_123.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_124.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_130.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_131.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_132.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.12 seconds
 -----
 c input/sequential/cnf_noALO/11x11_133.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_134.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_135.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_136.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_137.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/11x11_138.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_139.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_140.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_141.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/11x11_142.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/11x11_143.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.07 seconds
 -----
 c input/sequential/cnf_noALO/11x11_144.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/11x11_145.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/12x12_120.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/12x12_121.cnf
 s SATISFIABLE
-c process-time: 0.23 seconds
+c process-time: 1s 0.58 seconds
 -----
 c input/sequential/cnf_noALO/12x12_122.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/12x12_123.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/12x12_124.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/12x12_130.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/12x12_131.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.11 seconds
 -----
 c input/sequential/cnf_noALO/12x12_132.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/12x12_133.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/12x12_134.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/12x12_135.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/12x12_136.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/12x12_137.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/12x12_138.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/12x12_139.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.08 seconds
 -----
 c input/sequential/cnf_noALO/12x12_140.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/12x12_141.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/12x12_142.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/12x12_143.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/12x12_144.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/12x12_145.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.06 seconds
 -----
 c input/sequential/cnf_noALO/12x15_39.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/12x15_43.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.22 seconds
 -----
 c input/sequential/cnf_noALO/12x15_45.cnf
 s SATISFIABLE
-c process-time: 1s 0.62 seconds
+c process-time: 1s 1.32 seconds
 -----
 c input/sequential/cnf_noALO/12x15_46.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/12x23_210.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.21 seconds
 -----
 c input/sequential/cnf_noALO/13x13_120.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/13x13_121.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/13x13_122.cnf
 s SATISFIABLE
-c process-time: 1s 0.84 seconds
+c process-time: 2s 1.92 seconds
 -----
 c input/sequential/cnf_noALO/13x13_123.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/13x13_124.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.18 seconds
 -----
 c input/sequential/cnf_noALO/13x13_130.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.07 seconds
 -----
 c input/sequential/cnf_noALO/13x13_131.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/13x13_132.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/13x13_133.cnf
 s SATISFIABLE
-c process-time: 0.32 seconds
+c process-time: 1s 0.74 seconds
 -----
 c input/sequential/cnf_noALO/13x13_134.cnf
 s SATISFIABLE
-c process-time: 2s 1.99 seconds
+c process-time: 5s 4.98 seconds
 -----
 c input/sequential/cnf_noALO/13x13_135.cnf
 s SATISFIABLE
-c process-time: 0.10 seconds
+c process-time: 0.19 seconds
 -----
 c input/sequential/cnf_noALO/13x13_136.cnf
 s SATISFIABLE
-c process-time: 0.23 seconds
+c process-time: 1s 0.59 seconds
 -----
 c input/sequential/cnf_noALO/13x13_137.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.18 seconds
 -----
 c input/sequential/cnf_noALO/13x13_138.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input/sequential/cnf_noALO/13x13_139.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.26 seconds
 -----
 c input/sequential/cnf_noALO/13x13_140.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/13x13_141.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/13x13_142.cnf
 s SATISFIABLE
-c process-time: 0.27 seconds
+c process-time: 1s 0.76 seconds
 -----
 c input/sequential/cnf_noALO/13x13_143.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input/sequential/cnf_noALO/13x13_144.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/13x13_145.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.06 seconds
 -----
 c input/sequential/cnf_noALO/14x14_120.cnf
 s SATISFIABLE
-c process-time: 0.33 seconds
+c process-time: 1s 0.84 seconds
 -----
 c input/sequential/cnf_noALO/14x14_121.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.06 seconds
 -----
 c input/sequential/cnf_noALO/14x14_122.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.16 seconds
 -----
 c input/sequential/cnf_noALO/14x14_123.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.08 seconds
 -----
 c input/sequential/cnf_noALO/14x14_124.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.27 seconds
 -----
 c input/sequential/cnf_noALO/14x14_130.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/14x14_131.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/14x14_132.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.07 seconds
 -----
 c input/sequential/cnf_noALO/14x14_133.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.12 seconds
 -----
 c input/sequential/cnf_noALO/14x14_134.cnf
 s SATISFIABLE
-c process-time: 0.30 seconds
+c process-time: 1s 0.78 seconds
 -----
 c input/sequential/cnf_noALO/14x14_135.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.08 seconds
 -----
 c input/sequential/cnf_noALO/14x14_136.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.08 seconds
 -----
 c input/sequential/cnf_noALO/14x14_137.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/14x14_138.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.07 seconds
 -----
 c input/sequential/cnf_noALO/14x14_139.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.09 seconds
 -----
 c input/sequential/cnf_noALO/14x14_140.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.09 seconds
 -----
 c input/sequential/cnf_noALO/14x14_141.cnf
 s SATISFIABLE
-c process-time: 0.14 seconds
+c process-time: 0.43 seconds
 -----
 c input/sequential/cnf_noALO/14x14_142.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.18 seconds
 -----
 c input/sequential/cnf_noALO/14x14_143.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.23 seconds
 -----
 c input/sequential/cnf_noALO/14x14_144.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.06 seconds
 -----
 c input/sequential/cnf_noALO/14x14_145.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input/sequential/cnf_noALO/14x24_105.cnf
 s SATISFIABLE
-c process-time: 11s 10.81 seconds
+c process-time: 28s 27.93 seconds
 -----
 c input/sequential/cnf_noALO/14x24_110.cnf
 s SATISFIABLE
-c process-time: 1s 0.63 seconds
+c process-time: 1s 1.48 seconds
 -----
 c input/sequential/cnf_noALO/14x24_113.cnf
 s SATISFIABLE
-c process-time: 1s 0.66 seconds
+c process-time: 2s 1.62 seconds
 -----
 c input/sequential/cnf_noALO/14x24_117.cnf
 s SATISFIABLE
-c process-time: 2s 2.10 seconds
+c process-time: 5s 5.05 seconds
 -----
 c input/sequential/cnf_noALO/14x24_129.cnf
 s SATISFIABLE
-c process-time: 23s 22.62 seconds
+c process-time: 56s 55.74 seconds
 -----
 c input/sequential/cnf_noALO/14x24_139.cnf
 s SATISFIABLE
-c process-time: 3s 2.56 seconds
+c process-time: 6s 6.04 seconds
 -----
 c input/sequential/cnf_noALO/14x24_147.cnf
 s SATISFIABLE
-c process-time: 2s 2.06 seconds
+c process-time: 5s 5.23 seconds
 -----
 c input/sequential/cnf_noALO/14x24_148.cnf
 s SATISFIABLE
-c process-time: 23s 23.26 seconds
+c process-time: 55s 54.87 seconds
 -----
 c input/sequential/cnf_noALO/14x24_157.cnf
 s SATISFIABLE
-c process-time: 1s 1.17 seconds
+c process-time: 3s 2.78 seconds
 -----
 c input/sequential/cnf_noALO/14x24_158.cnf
 s SATISFIABLE
-c process-time: 3s 2.96 seconds
+c process-time: 6s 6.46 seconds
 -----
 c input/sequential/cnf_noALO/14x24_169.cnf
 s SATISFIABLE
-c process-time: 1m 18s 77.71 seconds
+c process-time: 3m 17s 197.41 seconds
 -----
 c input/sequential/cnf_noALO/14x24_179.cnf
 s SATISFIABLE
-c process-time: 11s 10.62 seconds
+c process-time: 24s 24.43 seconds
 -----
 c input/sequential/cnf_noALO/14x24_188.cnf
 s SATISFIABLE
-c process-time: 3s 3.37 seconds
+c process-time: 8s 8.18 seconds
 -----
 c input/sequential/cnf_noALO/14x24_189.cnf
 s SATISFIABLE
-c process-time: 1s 1.48 seconds
+c process-time: 4s 3.63 seconds
 -----
 c input/sequential/cnf_noALO/14x24_190.cnf
 s SATISFIABLE
-c process-time: 1s 1.04 seconds
+c process-time: 2s 2.39 seconds
 -----
 c input/sequential/cnf_noALO/14x24_199.cnf
 s SATISFIABLE
-c process-time: 2s 1.79 seconds
+c process-time: 4s 3.85 seconds
 -----
 c input/sequential/cnf_noALO/14x24_200.cnf
 s SATISFIABLE
-c process-time: 1m 59s 118.52 seconds
+c process-time: 5m 13s 313.26 seconds
 -----
 c input/sequential/cnf_noALO/14x24_208.cnf
 s SATISFIABLE
-c process-time: 7s 6.61 seconds
+c process-time: 15s 15.10 seconds
 -----
 c input/sequential/cnf_noALO/14x24_209.cnf
 s SATISFIABLE
-c process-time: 4s 3.78 seconds
+c process-time: 8s 8.21 seconds
 -----
 c input/sequential/cnf_noALO/14x24_218.cnf
 s SATISFIABLE
-c process-time: 8s 7.82 seconds
+c process-time: 18s 18.44 seconds
 -----
 c input/sequential/cnf_noALO/14x24_219.cnf
 s SATISFIABLE
-c process-time: 7s 6.68 seconds
+c process-time: 16s 15.83 seconds
 -----
 c input/sequential/cnf_noALO/14x24_418.cnf
 s SATISFIABLE
-c process-time: 5s 4.96 seconds
+c process-time: 12s 11.56 seconds
 -----
 c input/sequential/cnf_noALO/14x24_419.cnf
 s SATISFIABLE
-c process-time: 1s 1.46 seconds
+c process-time: 3s 3.50 seconds
 -----
 c input/sequential/cnf_noALO/14x24_420.cnf
 s SATISFIABLE
-c process-time: 1m 24s 83.98 seconds
+c process-time: 3m 34s 213.76 seconds
 -----
 c input/sequential/cnf_noALO/15x15_120.cnf
 s SATISFIABLE
-c process-time: 0.40 seconds
+c process-time: 1s 0.97 seconds
 -----
 c input/sequential/cnf_noALO/15x15_121.cnf
 s SATISFIABLE
-c process-time: 0.17 seconds
+c process-time: 0.42 seconds
 -----
 c input/sequential/cnf_noALO/15x15_122.cnf
 s SATISFIABLE
-c process-time: 0.12 seconds
+c process-time: 0.32 seconds
 -----
 c input/sequential/cnf_noALO/15x15_123.cnf
 s SATISFIABLE
-c process-time: 0.25 seconds
+c process-time: 1s 0.62 seconds
 -----
 c input/sequential/cnf_noALO/15x15_124.cnf
 s SATISFIABLE
-c process-time: 1s 1.37 seconds
+c process-time: 3s 2.84 seconds
 -----
 c input/sequential/cnf_noALO/15x15_130.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.12 seconds
 -----
 c input/sequential/cnf_noALO/15x15_131.cnf
 s SATISFIABLE
-c process-time: 0.12 seconds
+c process-time: 0.31 seconds
 -----
 c input/sequential/cnf_noALO/15x15_132.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.16 seconds
 -----
 c input/sequential/cnf_noALO/15x15_133.cnf
 s SATISFIABLE
-c process-time: 1s 0.83 seconds
+c process-time: 2s 1.95 seconds
 -----
 c input/sequential/cnf_noALO/15x15_134.cnf
 s SATISFIABLE
-c process-time: 0.31 seconds
+c process-time: 1s 0.77 seconds
 -----
 c input/sequential/cnf_noALO/15x15_135.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.12 seconds
 -----
 c input/sequential/cnf_noALO/15x15_136.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.20 seconds
 -----
 c input/sequential/cnf_noALO/15x15_137.cnf
 s SATISFIABLE
-c process-time: 0.18 seconds
+c process-time: 0.47 seconds
 -----
 c input/sequential/cnf_noALO/15x15_138.cnf
 s SATISFIABLE
-c process-time: 0.21 seconds
+c process-time: 0.42 seconds
 -----
 c input/sequential/cnf_noALO/15x15_139.cnf
 s SATISFIABLE
-c process-time: 0.13 seconds
+c process-time: 0.30 seconds
 -----
 c input/sequential/cnf_noALO/15x15_140.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.17 seconds
 -----
 c input/sequential/cnf_noALO/15x15_141.cnf
 s SATISFIABLE
-c process-time: 0.48 seconds
+c process-time: 1s 0.97 seconds
 -----
 c input/sequential/cnf_noALO/15x15_142.cnf
 s SATISFIABLE
-c process-time: 0.44 seconds
+c process-time: 1s 1.20 seconds
 -----
 c input/sequential/cnf_noALO/15x15_143.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.19 seconds
 -----
 c input/sequential/cnf_noALO/15x15_144.cnf
 s SATISFIABLE
-c process-time: 1s 0.75 seconds
+c process-time: 2s 1.56 seconds
 -----
 c input/sequential/cnf_noALO/15x15_145.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.12 seconds
 -----
 c input/sequential/cnf_noALO/15x20_307.cnf
-s SATISFIABLE
-c process-time: 15m 15s 914.86 seconds
+c process-time: 29m 57s 1797.42 seconds
+UNKNOWN
 -----
 c input/sequential/cnf_noALO/15x20_308.cnf
 s SATISFIABLE
-c process-time: 15s 15.26 seconds
+c process-time: 37s 36.74 seconds
 -----
 c input/sequential/cnf_noALO/15x20_309.cnf
-s SATISFIABLE
-c process-time: 18m 56s 1135.66 seconds
+c process-time: 29m 58s 1797.72 seconds
+UNKNOWN
 -----
 c input/sequential/cnf_noALO/15x20_310.cnf
 s SATISFIABLE
-c process-time: 3m 7s 186.83 seconds
+c process-time: 8m 32s 511.82 seconds
 -----
 c input/sequential/cnf_noALO/15x20_317.cnf
 s SATISFIABLE
-c process-time: 2s 1.73 seconds
+c process-time: 4s 4.21 seconds
 -----
 c input/sequential/cnf_noALO/15x20_318.cnf
 s SATISFIABLE
-c process-time: 23s 23.36 seconds
+c process-time: 55s 55.12 seconds
 -----
 c input/sequential/cnf_noALO/15x20_319.cnf
-s SATISFIABLE
-c process-time: 12m 21s 741.45 seconds
+c process-time: 29m 58s 1798.11 seconds
+UNKNOWN
 -----
 c input/sequential/cnf_noALO/15x20_320.cnf
 s SATISFIABLE
-c process-time: 13s 12.78 seconds
+c process-time: 31s 31.11 seconds
 -----
 c input/sequential/cnf_noALO/17x17_100.cnf
 s SATISFIABLE
-c process-time: 8s 8.49 seconds
+c process-time: 19s 19.34 seconds
 -----
 c input/sequential/cnf_noALO/17x17_104.cnf
 s SATISFIABLE
-c process-time: 1s 0.87 seconds
+c process-time: 2s 2.18 seconds
 -----
 c input/sequential/cnf_noALO/17x17_109.cnf
 s SATISFIABLE
-c process-time: 1s 1.10 seconds
+c process-time: 3s 2.73 seconds
 -----
 c input/sequential/cnf_noALO/17x17_112.cnf
 s SATISFIABLE
-c process-time: 0.15 seconds
+c process-time: 0.34 seconds
 -----
 c input/sequential/cnf_noALO/17x17_116.cnf
 s SATISFIABLE
-c process-time: 1s 0.84 seconds
+c process-time: 2s 2.01 seconds
 -----
 c input/sequential/cnf_noALO/17x17_120.cnf
 s SATISFIABLE
-c process-time: 6s 6.10 seconds
+c process-time: 14s 14.30 seconds
 -----
 c input/sequential/cnf_noALO/17x17_128.cnf
 s SATISFIABLE
-c process-time: 5s 4.55 seconds
+c process-time: 10s 10.32 seconds
 -----
 c input/sequential/cnf_noALO/17x17_136.cnf
 s SATISFIABLE
-c process-time: 0.30 seconds
+c process-time: 1s 0.92 seconds
 -----
 c input/sequential/cnf_noALO/17x17_138.cnf
 s SATISFIABLE
-c process-time: 2s 1.90 seconds
+c process-time: 4s 4.27 seconds
 -----
 c input/sequential/cnf_noALO/17x17_165.cnf
 s SATISFIABLE
-c process-time: 4s 4.35 seconds
+c process-time: 10s 9.78 seconds
 -----
 c input/sequential/cnf_noALO/17x17_166.cnf
 s SATISFIABLE
-c process-time: 42s 41.81 seconds
+c process-time: 1m 45s 104.99 seconds
 -----
 c input/sequential/cnf_noALO/17x17_167.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.20 seconds
 -----
 c input/sequential/cnf_noALO/17x17_168.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.15 seconds
 -----
 c input/sequential/cnf_noALO/17x17_175.cnf
 s SATISFIABLE
-c process-time: 1s 1.08 seconds
+c process-time: 3s 2.59 seconds
 -----
 c input/sequential/cnf_noALO/17x17_176.cnf
 s SATISFIABLE
-c process-time: 2m 44s 164.31 seconds
+c process-time: 7m 28s 447.60 seconds
 -----
 c input/sequential/cnf_noALO/17x17_177.cnf
 s SATISFIABLE
-c process-time: 0.25 seconds
+c process-time: 1s 0.74 seconds
 -----
 c input/sequential/cnf_noALO/17x17_178.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.21 seconds
 -----
 c input/sequential/cnf_noALO/17x17_187.cnf
 s SATISFIABLE
-c process-time: 1s 1.21 seconds
+c process-time: 3s 2.88 seconds
 -----
 c input/sequential/cnf_noALO/17x17_188.cnf
 s SATISFIABLE
-c process-time: 0.18 seconds
+c process-time: 0.44 seconds
 -----
 c input/sequential/cnf_noALO/17x17_197.cnf
 s SATISFIABLE
-c process-time: 2s 1.96 seconds
+c process-time: 5s 4.57 seconds
 -----
 c input/sequential/cnf_noALO/17x17_198.cnf
 s SATISFIABLE
-c process-time: 0.45 seconds
+c process-time: 1s 1.26 seconds
 -----
 c input/sequential/cnf_noALO/17x17_230.cnf
 s SATISFIABLE
-c process-time: 1s 1.27 seconds
+c process-time: 3s 2.93 seconds
 -----
 c input/sequential/cnf_noALO/17x17_240.cnf
 s SATISFIABLE
-c process-time: 1s 0.79 seconds
+c process-time: 2s 2.05 seconds
 -----
 c input/sequential/cnf_noALO/17x17_250.cnf
 s SATISFIABLE
-c process-time: 0.22 seconds
+c process-time: 1s 0.62 seconds
 -----
 c input/sequential/cnf_noALO/17x17_260.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.16 seconds
 -----
 c input/sequential/cnf_noALO/17x17_270.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.18 seconds
 -----
 c input/sequential/cnf_noALO/17x17_429.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.22 seconds
 -----
 c input/sequential/cnf_noALO/17x17_439.cnf
 s SATISFIABLE
-c process-time: 21s 21.03 seconds
+c process-time: 49s 49.38 seconds
 -----
 c input/sequential/cnf_noALO/17x17_449.cnf
 s SATISFIABLE
-c process-time: 0.37 seconds
+c process-time: 1s 0.91 seconds
 -----
 c input/sequential/cnf_noALO/20x20_430.cnf
 s SATISFIABLE
-c process-time: 14s 13.69 seconds
+c process-time: 35s 34.53 seconds
 -----
 c input/sequential/cnf_noALO/20x20_440.cnf
-c process-time: 30m 1799.70 seconds
+c process-time: 29m 58s 1798.49 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x20_450.cnf
 s SATISFIABLE
-c process-time: 8m 29s 508.69 seconds
+c process-time: 24m 11s 1450.98 seconds
 -----
 c input/sequential/cnf_noALO/20x36_106.cnf
 s SATISFIABLE
-c process-time: 2m 23s 143.45 seconds
+c process-time: 6m 50s 410.02 seconds
 -----
 c input/sequential/cnf_noALO/20x36_114.cnf
-s SATISFIABLE
-c process-time: 11m 660.25 seconds
+c process-time: 29m 58s 1798.10 seconds
+UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_118.cnf
-c process-time: 30m 1799.82 seconds
+c process-time: 29m 59s 1798.62 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_130.cnf
-c process-time: 30m 1799.73 seconds
+c process-time: 29m 58s 1798.43 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_140.cnf
-c process-time: 30m 1799.72 seconds
+c process-time: 29m 59s 1798.78 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_149.cnf
-c process-time: 30m 1799.75 seconds
+c process-time: 29m 59s 1798.63 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_150.cnf
-c process-time: 30m 1799.77 seconds
+c process-time: 29m 58s 1798.28 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_159.cnf
-c process-time: 30m 1799.76 seconds
+c process-time: 29m 59s 1798.55 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_160.cnf
-c process-time: 30m 1799.75 seconds
+c process-time: 29m 58s 1798.40 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_170.cnf
-c process-time: 30m 1799.71 seconds
+c process-time: 29m 58s 1798.49 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_180.cnf
-c process-time: 30m 1799.69 seconds
+c process-time: 29m 59s 1798.67 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_210.cnf
-c process-time: 30m 1799.71 seconds
+c process-time: 29m 59s 1798.69 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/20x36_220.cnf
-c process-time: 30m 1799.71 seconds
+c process-time: 29m 59s 1798.95 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/25x25_60.cnf
 s SATISFIABLE
-c process-time: 3m 179.74 seconds
+c process-time: 6m 20s 380.28 seconds
 -----
 c input/sequential/cnf_noALO/25x25_66.cnf
 s SATISFIABLE
-c process-time: 2m 53s 173.14 seconds
+c process-time: 6m 19s 378.60 seconds
 -----
 c input/sequential/cnf_noALO/25x25_72.cnf
-s SATISFIABLE
-c process-time: 14m 17s 857.42 seconds
+c process-time: 29m 59s 1798.78 seconds
+UNKNOWN
 -----
 c input/sequential/cnf_noALO/25x25_78.cnf
-s SATISFIABLE
-c process-time: 20m 21s 1221.41 seconds
+c process-time: 29m 58s 1798.21 seconds
+UNKNOWN
 -----
 c input/sequential/cnf_noALO/25x42_110.cnf
 s SATISFIABLE
-c process-time: 54s 54.34 seconds
+c process-time: 2m 8s 128.22 seconds
 -----
 c input/sequential/cnf_noALO/35x48_190.cnf
-c process-time: 30m 1799.81 seconds
+c process-time: 29m 59s 1798.62 seconds
 UNKNOWN
 -----
 c input/sequential/cnf_noALO/6x6_120.cnf
@@ -999,6 +999,10 @@ s SATISFIABLE
 c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/6x6_140.cnf
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input/sequential/cnf_noALO/6x6_141.cnf
 s SATISFIABLE
 c process-time: 0.00 seconds
 -----
@@ -1072,7 +1076,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/7x7_138.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/7x7_139.cnf
 s SATISFIABLE
@@ -1088,7 +1092,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/7x7_142.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/7x7_143.cnf
 s SATISFIABLE
@@ -1104,7 +1108,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/8x8_120.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/8x8_121.cnf
 s SATISFIABLE
@@ -1132,7 +1136,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/8x8_132.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/8x8_133.cnf
 s SATISFIABLE
@@ -1140,7 +1144,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/8x8_134.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/8x8_135.cnf
 s SATISFIABLE
@@ -1160,7 +1164,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/8x8_139.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/8x8_140.cnf
 s SATISFIABLE
@@ -1184,27 +1188,27 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/8x8_145.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_120.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_121.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/9x9_122.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_123.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_124.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_130.cnf
 s SATISFIABLE
@@ -1216,19 +1220,19 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/9x9_132.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_133.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_134.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_135.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_136.cnf
 s SATISFIABLE
@@ -1236,11 +1240,11 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/9x9_137.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_138.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_139.cnf
 s SATISFIABLE
@@ -1252,11 +1256,11 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/9x9_141.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/sequential/cnf_noALO/9x9_142.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input/sequential/cnf_noALO/9x9_143.cnf
 s SATISFIABLE
@@ -1268,7 +1272,7 @@ c process-time: 0.00 seconds
 -----
 c input/sequential/cnf_noALO/9x9_145.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 UNKNOWN
 -----
