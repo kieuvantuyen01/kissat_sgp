@@ -16,7 +16,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_124.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/10x10_130.cnf
 s SATISFIABLE
@@ -36,11 +36,11 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_134.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_135.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_136.cnf
 s SATISFIABLE
@@ -48,7 +48,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_137.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_138.cnf
 s SATISFIABLE
@@ -76,7 +76,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_144.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x10_145.cnf
 s SATISFIABLE
@@ -84,7 +84,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x15_387.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/10x15_388.cnf
 s SATISFIABLE
@@ -92,23 +92,23 @@ c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/10x15_389.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/10x15_390.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/10x15_396.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/10x15_397.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/10x15_398.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/10x15_399.cnf
 s SATISFIABLE
@@ -120,11 +120,11 @@ c process-time: 0.06 seconds
 -----
 c input/product/cnf_ALO/10x18_186.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/10x18_187.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/10x18_198.cnf
 s SATISFIABLE
@@ -136,7 +136,7 @@ c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/10x18_200.cnf
 s SATISFIABLE
-c process-time: 0.19 seconds
+c process-time: 0.15 seconds
 -----
 c input/product/cnf_ALO/10x18_208.cnf
 s SATISFIABLE
@@ -144,23 +144,23 @@ c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/10x18_209.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/10x18_414.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/10x18_415.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.09 seconds
 -----
 c input/product/cnf_ALO/10x18_416.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/10x18_417.cnf
 s SATISFIABLE
-c process-time: 0.16 seconds
+c process-time: 0.21 seconds
 -----
 c input/product/cnf_ALO/11x11_120.cnf
 s SATISFIABLE
@@ -168,7 +168,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_121.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_122.cnf
 s SATISFIABLE
@@ -192,11 +192,11 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_132.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_133.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_134.cnf
 s SATISFIABLE
@@ -208,7 +208,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_136.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_137.cnf
 s SATISFIABLE
@@ -232,7 +232,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_142.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_143.cnf
 s SATISFIABLE
@@ -240,7 +240,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_144.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/11x11_145.cnf
 s SATISFIABLE
@@ -248,7 +248,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_120.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_121.cnf
 s SATISFIABLE
@@ -264,11 +264,11 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_124.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_130.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_131.cnf
 s SATISFIABLE
@@ -276,19 +276,19 @@ c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/12x12_132.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/12x12_133.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/12x12_134.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/12x12_135.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/12x12_136.cnf
 s SATISFIABLE
@@ -304,7 +304,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_139.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_140.cnf
 s SATISFIABLE
@@ -316,11 +316,11 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_142.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x12_143.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/12x12_144.cnf
 s SATISFIABLE
@@ -328,11 +328,11 @@ c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/12x12_145.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x15_39.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x15_43.cnf
 s SATISFIABLE
@@ -340,7 +340,7 @@ c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/12x15_45.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/12x15_46.cnf
 s SATISFIABLE
@@ -364,7 +364,7 @@ c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/13x13_123.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/13x13_124.cnf
 s SATISFIABLE
@@ -372,7 +372,7 @@ c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/13x13_130.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/13x13_131.cnf
 s SATISFIABLE
@@ -380,51 +380,51 @@ c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/13x13_132.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/13x13_133.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/13x13_134.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/13x13_135.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/13x13_136.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/13x13_137.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/13x13_138.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/13x13_139.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/13x13_140.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/13x13_141.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/13x13_142.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/13x13_143.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/13x13_144.cnf
 s SATISFIABLE
@@ -436,31 +436,31 @@ c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/14x14_120.cnf
 s SATISFIABLE
-c process-time: 0.14 seconds
+c process-time: 0.10 seconds
 -----
 c input/product/cnf_ALO/14x14_121.cnf
 s SATISFIABLE
-c process-time: 0.11 seconds
+c process-time: 0.09 seconds
 -----
 c input/product/cnf_ALO/14x14_122.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/14x14_123.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/14x14_124.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/14x14_130.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/14x14_131.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/14x14_132.cnf
 s SATISFIABLE
@@ -468,7 +468,7 @@ c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/14x14_133.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.06 seconds
 -----
 c input/product/cnf_ALO/14x14_134.cnf
 s SATISFIABLE
@@ -476,147 +476,147 @@ c process-time: 0.06 seconds
 -----
 c input/product/cnf_ALO/14x14_135.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/14x14_136.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/14x14_137.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/14x14_138.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/14x14_139.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/14x14_140.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/14x14_141.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/14x14_142.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/14x14_143.cnf
 s SATISFIABLE
-c process-time: 0.12 seconds
+c process-time: 0.10 seconds
 -----
 c input/product/cnf_ALO/14x14_144.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/14x14_145.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.07 seconds
 -----
 c input/product/cnf_ALO/14x24_105.cnf
 s SATISFIABLE
-c process-time: 1s 0.72 seconds
+c process-time: 1s 0.60 seconds
 -----
 c input/product/cnf_ALO/14x24_110.cnf
 s SATISFIABLE
-c process-time: 0.40 seconds
+c process-time: 0.37 seconds
 -----
 c input/product/cnf_ALO/14x24_113.cnf
 s SATISFIABLE
-c process-time: 0.45 seconds
+c process-time: 0.47 seconds
 -----
 c input/product/cnf_ALO/14x24_117.cnf
 s SATISFIABLE
-c process-time: 1s 1.30 seconds
+c process-time: 1s 1.11 seconds
 -----
 c input/product/cnf_ALO/14x24_129.cnf
 s SATISFIABLE
-c process-time: 1s 1.08 seconds
+c process-time: 1s 0.90 seconds
 -----
 c input/product/cnf_ALO/14x24_139.cnf
 s SATISFIABLE
-c process-time: 1s 0.56 seconds
+c process-time: 1s 0.63 seconds
 -----
 c input/product/cnf_ALO/14x24_147.cnf
 s SATISFIABLE
-c process-time: 1s 0.95 seconds
+c process-time: 1s 1.10 seconds
 -----
 c input/product/cnf_ALO/14x24_148.cnf
 s SATISFIABLE
-c process-time: 0.12 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/14x24_157.cnf
 s SATISFIABLE
-c process-time: 1s 0.63 seconds
+c process-time: 1s 0.56 seconds
 -----
 c input/product/cnf_ALO/14x24_158.cnf
 s SATISFIABLE
-c process-time: 2s 1.82 seconds
+c process-time: 2s 1.64 seconds
 -----
 c input/product/cnf_ALO/14x24_169.cnf
 s SATISFIABLE
-c process-time: 2s 2.48 seconds
+c process-time: 2s 2.16 seconds
 -----
 c input/product/cnf_ALO/14x24_179.cnf
 s SATISFIABLE
-c process-time: 7s 7.28 seconds
+c process-time: 6s 6.29 seconds
 -----
 c input/product/cnf_ALO/14x24_188.cnf
 s SATISFIABLE
-c process-time: 1s 0.99 seconds
+c process-time: 1s 0.80 seconds
 -----
 c input/product/cnf_ALO/14x24_189.cnf
 s SATISFIABLE
-c process-time: 0.40 seconds
+c process-time: 0.30 seconds
 -----
 c input/product/cnf_ALO/14x24_190.cnf
 s SATISFIABLE
-c process-time: 3m 36s 216.34 seconds
+c process-time: 3m 9s 189.35 seconds
 -----
 c input/product/cnf_ALO/14x24_199.cnf
 s SATISFIABLE
-c process-time: 7s 7.18 seconds
+c process-time: 6s 6.06 seconds
 -----
 c input/product/cnf_ALO/14x24_200.cnf
 s SATISFIABLE
-c process-time: 4s 4.23 seconds
+c process-time: 4s 3.83 seconds
 -----
 c input/product/cnf_ALO/14x24_208.cnf
 s SATISFIABLE
-c process-time: 1s 0.60 seconds
+c process-time: 0.48 seconds
 -----
 c input/product/cnf_ALO/14x24_209.cnf
 s SATISFIABLE
-c process-time: 1s 1.03 seconds
+c process-time: 1s 0.72 seconds
 -----
 c input/product/cnf_ALO/14x24_218.cnf
 s SATISFIABLE
-c process-time: 1s 0.62 seconds
+c process-time: 1s 0.54 seconds
 -----
 c input/product/cnf_ALO/14x24_219.cnf
 s SATISFIABLE
-c process-time: 4s 4.36 seconds
+c process-time: 4s 3.83 seconds
 -----
 c input/product/cnf_ALO/14x24_418.cnf
 s SATISFIABLE
-c process-time: 0.26 seconds
+c process-time: 0.27 seconds
 -----
 c input/product/cnf_ALO/14x24_419.cnf
 s SATISFIABLE
-c process-time: 0.38 seconds
+c process-time: 0.43 seconds
 -----
 c input/product/cnf_ALO/14x24_420.cnf
 s SATISFIABLE
-c process-time: 6s 5.95 seconds
+c process-time: 5s 5.18 seconds
 -----
 c input/product/cnf_ALO/15x15_120.cnf
 s SATISFIABLE
-c process-time: 0.10 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/15x15_121.cnf
 s SATISFIABLE
@@ -628,11 +628,11 @@ c process-time: 0.02 seconds
 -----
 c input/product/cnf_ALO/15x15_123.cnf
 s SATISFIABLE
-c process-time: 0.10 seconds
+c process-time: 0.14 seconds
 -----
 c input/product/cnf_ALO/15x15_124.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/15x15_130.cnf
 s SATISFIABLE
@@ -640,7 +640,7 @@ c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/15x15_131.cnf
 s SATISFIABLE
-c process-time: 0.20 seconds
+c process-time: 0.13 seconds
 -----
 c input/product/cnf_ALO/15x15_132.cnf
 s SATISFIABLE
@@ -648,7 +648,7 @@ c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/15x15_133.cnf
 s SATISFIABLE
-c process-time: 0.23 seconds
+c process-time: 0.24 seconds
 -----
 c input/product/cnf_ALO/15x15_134.cnf
 s SATISFIABLE
@@ -656,15 +656,15 @@ c process-time: 0.06 seconds
 -----
 c input/product/cnf_ALO/15x15_135.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.10 seconds
 -----
 c input/product/cnf_ALO/15x15_136.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/15x15_137.cnf
 s SATISFIABLE
-c process-time: 0.34 seconds
+c process-time: 0.42 seconds
 -----
 c input/product/cnf_ALO/15x15_138.cnf
 s SATISFIABLE
@@ -672,15 +672,15 @@ c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/15x15_139.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.09 seconds
 -----
 c input/product/cnf_ALO/15x15_140.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/15x15_141.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/15x15_142.cnf
 s SATISFIABLE
@@ -688,55 +688,55 @@ c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/15x15_143.cnf
 s SATISFIABLE
-c process-time: 0.25 seconds
+c process-time: 0.20 seconds
 -----
 c input/product/cnf_ALO/15x15_144.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/15x15_145.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input/product/cnf_ALO/15x20_307.cnf
 s SATISFIABLE
-c process-time: 13s 12.99 seconds
+c process-time: 11s 11.45 seconds
 -----
 c input/product/cnf_ALO/15x20_308.cnf
 s SATISFIABLE
-c process-time: 1s 0.51 seconds
+c process-time: 0.44 seconds
 -----
 c input/product/cnf_ALO/15x20_309.cnf
 s SATISFIABLE
-c process-time: 5s 4.79 seconds
+c process-time: 4s 3.93 seconds
 -----
 c input/product/cnf_ALO/15x20_310.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.08 seconds
 -----
 c input/product/cnf_ALO/15x20_317.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/15x20_318.cnf
 s SATISFIABLE
-c process-time: 1s 0.68 seconds
+c process-time: 0.50 seconds
 -----
 c input/product/cnf_ALO/15x20_319.cnf
 s SATISFIABLE
-c process-time: 12s 12.24 seconds
+c process-time: 10s 10.48 seconds
 -----
 c input/product/cnf_ALO/15x20_320.cnf
 s SATISFIABLE
-c process-time: 3s 2.99 seconds
+c process-time: 3s 2.62 seconds
 -----
 c input/product/cnf_ALO/17x17_100.cnf
 s SATISFIABLE
-c process-time: 1s 0.61 seconds
+c process-time: 1s 0.71 seconds
 -----
 c input/product/cnf_ALO/17x17_104.cnf
 s SATISFIABLE
-c process-time: 0.29 seconds
+c process-time: 0.33 seconds
 -----
 c input/product/cnf_ALO/17x17_109.cnf
 s SATISFIABLE
@@ -748,190 +748,190 @@ c process-time: 0.06 seconds
 -----
 c input/product/cnf_ALO/17x17_116.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.09 seconds
 -----
 c input/product/cnf_ALO/17x17_120.cnf
 s SATISFIABLE
-c process-time: 2s 1.78 seconds
+c process-time: 2s 1.68 seconds
 -----
 c input/product/cnf_ALO/17x17_128.cnf
 s SATISFIABLE
-c process-time: 1s 0.98 seconds
+c process-time: 1s 0.92 seconds
 -----
 c input/product/cnf_ALO/17x17_136.cnf
 s SATISFIABLE
-c process-time: 0.27 seconds
+c process-time: 0.31 seconds
 -----
 c input/product/cnf_ALO/17x17_138.cnf
 s SATISFIABLE
-c process-time: 5s 4.98 seconds
+c process-time: 4s 4.32 seconds
 -----
 c input/product/cnf_ALO/17x17_165.cnf
 s SATISFIABLE
-c process-time: 4s 3.73 seconds
+c process-time: 3s 3.24 seconds
 -----
 c input/product/cnf_ALO/17x17_166.cnf
 s SATISFIABLE
-c process-time: 10s 10.18 seconds
+c process-time: 9s 9.48 seconds
 -----
 c input/product/cnf_ALO/17x17_167.cnf
 s SATISFIABLE
-c process-time: 0.19 seconds
+c process-time: 0.18 seconds
 -----
 c input/product/cnf_ALO/17x17_168.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.05 seconds
 -----
 c input/product/cnf_ALO/17x17_175.cnf
 s SATISFIABLE
-c process-time: 51s 50.67 seconds
+c process-time: 44s 43.81 seconds
 -----
 c input/product/cnf_ALO/17x17_176.cnf
 s SATISFIABLE
-c process-time: 3s 3.05 seconds
+c process-time: 3s 2.58 seconds
 -----
 c input/product/cnf_ALO/17x17_177.cnf
 s SATISFIABLE
-c process-time: 2s 1.57 seconds
+c process-time: 1s 1.30 seconds
 -----
 c input/product/cnf_ALO/17x17_178.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.06 seconds
 -----
 c input/product/cnf_ALO/17x17_187.cnf
 s SATISFIABLE
-c process-time: 4s 3.66 seconds
+c process-time: 3s 3.10 seconds
 -----
 c input/product/cnf_ALO/17x17_188.cnf
 s SATISFIABLE
-c process-time: 0.41 seconds
+c process-time: 0.31 seconds
 -----
 c input/product/cnf_ALO/17x17_197.cnf
 s SATISFIABLE
-c process-time: 2s 2.07 seconds
+c process-time: 2s 1.84 seconds
 -----
 c input/product/cnf_ALO/17x17_198.cnf
 s SATISFIABLE
-c process-time: 6s 6.47 seconds
+c process-time: 6s 5.93 seconds
 -----
 c input/product/cnf_ALO/17x17_230.cnf
 s SATISFIABLE
-c process-time: 6s 6.18 seconds
+c process-time: 6s 5.89 seconds
 -----
 c input/product/cnf_ALO/17x17_240.cnf
 s SATISFIABLE
-c process-time: 6s 5.59 seconds
+c process-time: 5s 4.98 seconds
 -----
 c input/product/cnf_ALO/17x17_250.cnf
 s SATISFIABLE
-c process-time: 0.37 seconds
+c process-time: 0.35 seconds
 -----
 c input/product/cnf_ALO/17x17_260.cnf
 s SATISFIABLE
-c process-time: 0.13 seconds
+c process-time: 0.15 seconds
 -----
 c input/product/cnf_ALO/17x17_270.cnf
 s SATISFIABLE
-c process-time: 1s 0.60 seconds
+c process-time: 0.45 seconds
 -----
 c input/product/cnf_ALO/17x17_429.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.04 seconds
 -----
 c input/product/cnf_ALO/17x17_439.cnf
 s SATISFIABLE
-c process-time: 3s 2.67 seconds
+c process-time: 2s 2.37 seconds
 -----
 c input/product/cnf_ALO/17x17_449.cnf
 s SATISFIABLE
-c process-time: 1s 1.07 seconds
+c process-time: 1s 0.99 seconds
 -----
 c input/product/cnf_ALO/20x20_430.cnf
 s SATISFIABLE
-c process-time: 1s 0.78 seconds
+c process-time: 1s 0.75 seconds
 -----
 c input/product/cnf_ALO/20x20_440.cnf
 s SATISFIABLE
-c process-time: 1m 57s 117.39 seconds
+c process-time: 1m 43s 103.47 seconds
 -----
 c input/product/cnf_ALO/20x20_450.cnf
 s SATISFIABLE
-c process-time: 9s 8.62 seconds
+c process-time: 8s 8.27 seconds
 -----
 c input/product/cnf_ALO/20x36_106.cnf
 s SATISFIABLE
-c process-time: 27s 26.54 seconds
+c process-time: 22s 22.47 seconds
 -----
 c input/product/cnf_ALO/20x36_114.cnf
 s SATISFIABLE
-c process-time: 7s 7.18 seconds
+c process-time: 6s 6.12 seconds
 -----
 c input/product/cnf_ALO/20x36_118.cnf
 s SATISFIABLE
-c process-time: 11m 42s 701.69 seconds
+c process-time: 10m 27s 626.82 seconds
 -----
 c input/product/cnf_ALO/20x36_130.cnf
 s SATISFIABLE
-c process-time: 26s 25.51 seconds
+c process-time: 22s 21.92 seconds
 -----
 c input/product/cnf_ALO/20x36_140.cnf
 s SATISFIABLE
-c process-time: 7m 7s 426.96 seconds
+c process-time: 6m 24s 383.64 seconds
 -----
 c input/product/cnf_ALO/20x36_149.cnf
 s SATISFIABLE
-c process-time: 22m 45s 1364.63 seconds
+c process-time: 20m 28s 1228.27 seconds
 -----
 c input/product/cnf_ALO/20x36_150.cnf
-c process-time: 29m 58s 1798.22 seconds
+c process-time: 29m 59s 1798.90 seconds
 UNKNOWN
 -----
 c input/product/cnf_ALO/20x36_159.cnf
 s SATISFIABLE
-c process-time: 11m 29s 688.51 seconds
+c process-time: 10m 18s 618.47 seconds
 -----
 c input/product/cnf_ALO/20x36_160.cnf
-c process-time: 29m 57s 1797.18 seconds
+c process-time: 29m 59s 1798.63 seconds
 UNKNOWN
 -----
 c input/product/cnf_ALO/20x36_170.cnf
 s SATISFIABLE
-c process-time: 38s 37.97 seconds
+c process-time: 34s 34.21 seconds
 -----
 c input/product/cnf_ALO/20x36_180.cnf
 s SATISFIABLE
-c process-time: 17m 29s 1049.43 seconds
+c process-time: 15m 56s 955.95 seconds
 -----
 c input/product/cnf_ALO/20x36_210.cnf
 s SATISFIABLE
-c process-time: 38s 37.90 seconds
+c process-time: 34s 33.98 seconds
 -----
 c input/product/cnf_ALO/20x36_220.cnf
 s SATISFIABLE
-c process-time: 12s 12.29 seconds
+c process-time: 11s 11.23 seconds
 -----
 c input/product/cnf_ALO/25x25_60.cnf
 s SATISFIABLE
-c process-time: 11m 13s 672.64 seconds
+c process-time: 9m 44s 583.89 seconds
 -----
 c input/product/cnf_ALO/25x25_66.cnf
 s SATISFIABLE
-c process-time: 25s 25.45 seconds
+c process-time: 21s 21.43 seconds
 -----
 c input/product/cnf_ALO/25x25_72.cnf
 s SATISFIABLE
-c process-time: 27s 26.96 seconds
+c process-time: 22s 21.84 seconds
 -----
 c input/product/cnf_ALO/25x25_78.cnf
 s SATISFIABLE
-c process-time: 1m 54s 114.34 seconds
+c process-time: 1m 37s 96.60 seconds
 -----
 c input/product/cnf_ALO/25x42_110.cnf
 s SATISFIABLE
-c process-time: 22s 22.43 seconds
+c process-time: 19s 19.41 seconds
 -----
 c input/product/cnf_ALO/35x48_190.cnf
-c process-time: 29m 57s 1797.46 seconds
+c process-time: 29m 58s 1798.13 seconds
 UNKNOWN
 -----
 c input/product/cnf_ALO/6x6_120.cnf
@@ -944,7 +944,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/6x6_122.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/6x6_123.cnf
 s SATISFIABLE
@@ -1080,7 +1080,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/7x7_139.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/7x7_140.cnf
 s SATISFIABLE
@@ -1124,7 +1124,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_124.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/8x8_130.cnf
 s SATISFIABLE
@@ -1132,7 +1132,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_131.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_132.cnf
 s SATISFIABLE
@@ -1144,7 +1144,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_134.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/8x8_135.cnf
 s SATISFIABLE
@@ -1172,7 +1172,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_141.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/8x8_142.cnf
 s SATISFIABLE
@@ -1180,11 +1180,11 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_143.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/8x8_144.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/8x8_145.cnf
 s SATISFIABLE
@@ -1192,7 +1192,7 @@ c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/9x9_120.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/9x9_121.cnf
 s SATISFIABLE
@@ -1212,7 +1212,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_130.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_131.cnf
 s SATISFIABLE
@@ -1228,11 +1228,11 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_134.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/9x9_135.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_136.cnf
 s SATISFIABLE
@@ -1248,7 +1248,7 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_139.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/9x9_140.cnf
 s SATISFIABLE
@@ -1256,11 +1256,11 @@ c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_141.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.00 seconds
 -----
 c input/product/cnf_ALO/9x9_142.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.01 seconds
 -----
 c input/product/cnf_ALO/9x9_143.cnf
 s SATISFIABLE
