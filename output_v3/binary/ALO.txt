@@ -16,7 +16,7 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_124.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_130.cnf
 s SATISFIABLE
@@ -24,11 +24,11 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_131.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_132.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_133.cnf
 s SATISFIABLE
@@ -40,11 +40,11 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_135.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_136.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_137.cnf
 s SATISFIABLE
@@ -52,11 +52,11 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_138.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_139.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_140.cnf
 s SATISFIABLE
@@ -72,15 +72,15 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_143.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_144.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x10_145.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_387.cnf
 s SATISFIABLE
@@ -92,7 +92,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_389.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.09 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_390.cnf
 s SATISFIABLE
@@ -100,15 +100,15 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_396.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_397.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_398.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x15_399.cnf
 s SATISFIABLE
@@ -124,11 +124,11 @@ c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x18_187.cnf
 s SATISFIABLE
-c process-time: 0.16 seconds
+c process-time: 0.17 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x18_198.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x18_199.cnf
 s SATISFIABLE
@@ -136,7 +136,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x18_200.cnf
 s SATISFIABLE
-c process-time: 0.12 seconds
+c process-time: 0.14 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x18_208.cnf
 s SATISFIABLE
@@ -160,7 +160,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/10x18_417.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/11x11_120.cnf
 s SATISFIABLE
@@ -191,8 +191,9 @@ s SATISFIABLE
 c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/11x11_132.cnf
-s UNSATISFIABLE
-c process-time: 0.01 seconds
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
 c input_v3/binary/cnf_ALO_v3/11x11_133.cnf
 s SATISFIABLE
 c process-time: 0.01 seconds
@@ -247,11 +248,11 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x12_120.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x12_121.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x12_122.cnf
 s SATISFIABLE
@@ -267,7 +268,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x12_130.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x12_131.cnf
 s SATISFIABLE
@@ -331,11 +332,11 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x15_39.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x15_43.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x15_45.cnf
 s SATISFIABLE
@@ -347,7 +348,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/12x23_210.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_120.cnf
 s SATISFIABLE
@@ -367,11 +368,11 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_124.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_130.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_131.cnf
 s SATISFIABLE
@@ -403,7 +404,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_138.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_139.cnf
 s SATISFIABLE
@@ -419,7 +420,7 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_142.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_143.cnf
 s SATISFIABLE
@@ -431,7 +432,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/13x13_145.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_120.cnf
 s SATISFIABLE
@@ -439,31 +440,31 @@ c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_121.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_122.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_123.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_124.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_130.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_131.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.07 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_132.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_133.cnf
 s SATISFIABLE
@@ -471,43 +472,43 @@ c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_134.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_135.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.07 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_136.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_137.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.10 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_138.cnf
 s SATISFIABLE
-c process-time: 0.11 seconds
+c process-time: 0.16 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_139.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_140.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_141.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.07 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_142.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_143.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_144.cnf
 s SATISFIABLE
@@ -515,107 +516,107 @@ c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x14_145.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_105.cnf
 s SATISFIABLE
-c process-time: 0.38 seconds
+c process-time: 1s 0.59 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_110.cnf
 s SATISFIABLE
-c process-time: 1s 0.92 seconds
+c process-time: 1s 0.90 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_113.cnf
 s SATISFIABLE
-c process-time: 1s 0.66 seconds
+c process-time: 1s 0.92 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_117.cnf
 s SATISFIABLE
-c process-time: 1s 1.13 seconds
+c process-time: 1s 1.23 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_129.cnf
 s SATISFIABLE
-c process-time: 1s 0.83 seconds
+c process-time: 1s 1.09 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_139.cnf
 s SATISFIABLE
-c process-time: 1s 1.00 seconds
+c process-time: 1s 1.13 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_147.cnf
 s SATISFIABLE
-c process-time: 1s 0.96 seconds
+c process-time: 1s 1.38 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_148.cnf
 s SATISFIABLE
-c process-time: 0.16 seconds
+c process-time: 0.18 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_157.cnf
 s SATISFIABLE
-c process-time: 0.19 seconds
+c process-time: 0.31 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_158.cnf
 s SATISFIABLE
-c process-time: 3s 3.40 seconds
+c process-time: 4s 4.39 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_169.cnf
 s SATISFIABLE
-c process-time: 1s 1.23 seconds
+c process-time: 2s 1.58 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_179.cnf
 s SATISFIABLE
-c process-time: 2s 1.69 seconds
+c process-time: 2s 1.72 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_188.cnf
 s SATISFIABLE
-c process-time: 1s 0.55 seconds
+c process-time: 1s 0.63 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_189.cnf
 s SATISFIABLE
-c process-time: 0.26 seconds
+c process-time: 0.27 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_190.cnf
 s SATISFIABLE
-c process-time: 2m 27s 147.23 seconds
+c process-time: 2m 37s 157.16 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_199.cnf
 s SATISFIABLE
-c process-time: 3s 3.01 seconds
+c process-time: 3s 3.12 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_200.cnf
 s SATISFIABLE
-c process-time: 1s 1.31 seconds
+c process-time: 1s 1.17 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_208.cnf
 s SATISFIABLE
-c process-time: 0.19 seconds
+c process-time: 0.21 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_209.cnf
 s SATISFIABLE
-c process-time: 0.46 seconds
+c process-time: 0.47 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_218.cnf
 s SATISFIABLE
-c process-time: 1s 0.59 seconds
+c process-time: 1s 0.60 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_219.cnf
 s SATISFIABLE
-c process-time: 2s 2.10 seconds
+c process-time: 2s 2.16 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_418.cnf
 s SATISFIABLE
-c process-time: 0.13 seconds
+c process-time: 0.14 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_419.cnf
 s SATISFIABLE
-c process-time: 0.39 seconds
+c process-time: 0.42 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/14x24_420.cnf
 s SATISFIABLE
-c process-time: 6s 5.94 seconds
+c process-time: 6s 5.60 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_120.cnf
 s SATISFIABLE
-c process-time: 0.27 seconds
+c process-time: 0.24 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_121.cnf
 s SATISFIABLE
@@ -627,7 +628,7 @@ c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_123.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_124.cnf
 s SATISFIABLE
@@ -635,23 +636,23 @@ c process-time: 0.07 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_130.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_131.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_132.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.04 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_133.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_134.cnf
 s SATISFIABLE
-c process-time: 0.15 seconds
+c process-time: 0.16 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_135.cnf
 s SATISFIABLE
@@ -663,7 +664,7 @@ c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_137.cnf
 s SATISFIABLE
-c process-time: 0.04 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_138.cnf
 s SATISFIABLE
@@ -671,11 +672,11 @@ c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_139.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_140.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_141.cnf
 s SATISFIABLE
@@ -683,39 +684,39 @@ c process-time: 0.07 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_142.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_143.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.09 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_144.cnf
 s SATISFIABLE
-c process-time: 0.05 seconds
+c process-time: 0.06 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x15_145.cnf
 s SATISFIABLE
-c process-time: 0.02 seconds
+c process-time: 0.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_307.cnf
 s SATISFIABLE
-c process-time: 9s 8.90 seconds
+c process-time: 9s 9.25 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_308.cnf
 s SATISFIABLE
-c process-time: 0.37 seconds
+c process-time: 1s 0.56 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_309.cnf
 s SATISFIABLE
-c process-time: 4s 4.20 seconds
+c process-time: 4s 3.96 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_310.cnf
 s SATISFIABLE
-c process-time: 1s 0.97 seconds
+c process-time: 1s 1.34 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_317.cnf
 s SATISFIABLE
-c process-time: 0.08 seconds
+c process-time: 0.11 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_318.cnf
 s SATISFIABLE
@@ -723,23 +724,23 @@ c process-time: 1s 0.69 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_319.cnf
 s SATISFIABLE
-c process-time: 9s 9.08 seconds
+c process-time: 11s 10.91 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/15x20_320.cnf
 s SATISFIABLE
-c process-time: 2s 1.80 seconds
+c process-time: 2s 1.86 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_100.cnf
 s SATISFIABLE
-c process-time: 1s 0.67 seconds
+c process-time: 1s 1.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_104.cnf
 s SATISFIABLE
-c process-time: 0.26 seconds
+c process-time: 0.40 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_109.cnf
 s SATISFIABLE
-c process-time: 0.34 seconds
+c process-time: 0.48 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_112.cnf
 s SATISFIABLE
@@ -747,190 +748,190 @@ c process-time: 0.06 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_116.cnf
 s SATISFIABLE
-c process-time: 0.06 seconds
+c process-time: 0.09 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_120.cnf
 s SATISFIABLE
-c process-time: 1s 0.93 seconds
+c process-time: 1s 1.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_128.cnf
 s SATISFIABLE
-c process-time: 0.20 seconds
+c process-time: 0.23 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_136.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_138.cnf
 s SATISFIABLE
-c process-time: 2s 2.04 seconds
+c process-time: 3s 3.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_165.cnf
 s SATISFIABLE
-c process-time: 1s 1.01 seconds
+c process-time: 1s 0.93 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_166.cnf
 s SATISFIABLE
-c process-time: 6s 6.05 seconds
+c process-time: 8s 7.92 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_167.cnf
 s SATISFIABLE
-c process-time: 0.13 seconds
+c process-time: 0.12 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_168.cnf
 s SATISFIABLE
-c process-time: 0.09 seconds
+c process-time: 0.12 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_175.cnf
 s SATISFIABLE
-c process-time: 1m 11s 71.32 seconds
+c process-time: 1m 11s 70.80 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_176.cnf
 s SATISFIABLE
-c process-time: 2s 1.66 seconds
+c process-time: 2s 1.79 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_177.cnf
 s SATISFIABLE
-c process-time: 2s 1.72 seconds
+c process-time: 2s 1.64 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_178.cnf
 s SATISFIABLE
-c process-time: 1s 0.61 seconds
+c process-time: 1s 0.62 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_187.cnf
 s SATISFIABLE
-c process-time: 1s 0.75 seconds
+c process-time: 1s 0.73 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_188.cnf
 s SATISFIABLE
-c process-time: 1s 0.68 seconds
+c process-time: 1s 0.64 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_197.cnf
 s SATISFIABLE
-c process-time: 2s 1.87 seconds
+c process-time: 2s 1.62 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_198.cnf
 s SATISFIABLE
-c process-time: 8s 7.77 seconds
+c process-time: 7s 7.09 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_230.cnf
 s SATISFIABLE
-c process-time: 3s 3.24 seconds
+c process-time: 3s 3.19 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_240.cnf
 s SATISFIABLE
-c process-time: 3s 3.16 seconds
+c process-time: 4s 3.84 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_250.cnf
 s SATISFIABLE
-c process-time: 0.07 seconds
+c process-time: 0.06 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_260.cnf
 s SATISFIABLE
-c process-time: 0.11 seconds
+c process-time: 0.16 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_270.cnf
 s SATISFIABLE
-c process-time: 1s 1.45 seconds
+c process-time: 1s 1.33 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_429.cnf
 s SATISFIABLE
-c process-time: 0.03 seconds
+c process-time: 0.05 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_439.cnf
 s SATISFIABLE
-c process-time: 2s 1.91 seconds
+c process-time: 3s 2.51 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/17x17_449.cnf
 s SATISFIABLE
-c process-time: 1s 0.51 seconds
+c process-time: 1s 0.70 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x20_430.cnf
 s SATISFIABLE
-c process-time: 2s 2.17 seconds
+c process-time: 3s 2.73 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x20_440.cnf
 s SATISFIABLE
-c process-time: 27s 26.71 seconds
+c process-time: 28s 27.99 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x20_450.cnf
 s SATISFIABLE
-c process-time: 20s 19.66 seconds
+c process-time: 24s 23.74 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_106.cnf
 s SATISFIABLE
-c process-time: 20s 19.68 seconds
+c process-time: 22s 21.99 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_114.cnf
 s SATISFIABLE
-c process-time: 5s 4.93 seconds
+c process-time: 6s 6.09 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_118.cnf
 s SATISFIABLE
-c process-time: 4m 25s 264.65 seconds
+c process-time: 4m 32s 272.32 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_130.cnf
 s SATISFIABLE
-c process-time: 39s 39.38 seconds
+c process-time: 40s 39.63 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_140.cnf
 s SATISFIABLE
-c process-time: 9m 20s 560.18 seconds
+c process-time: 9m 40s 579.85 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_149.cnf
 s SATISFIABLE
-c process-time: 14m 10s 849.85 seconds
+c process-time: 14m 46s 886.24 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_150.cnf
-c process-time: 29m 58s 1798.16 seconds
+c process-time: 29m 59s 1799.10 seconds
 UNKNOWN
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_159.cnf
 s SATISFIABLE
-c process-time: 8m 4s 484.45 seconds
+c process-time: 8m 21s 501.08 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_160.cnf
-c process-time: 29m 59s 1798.52 seconds
+c process-time: 29m 59s 1799.17 seconds
 UNKNOWN
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_170.cnf
 s SATISFIABLE
-c process-time: 8m 15s 494.52 seconds
+c process-time: 10m 44s 643.68 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_180.cnf
 s SATISFIABLE
-c process-time: 12m 25s 744.73 seconds
+c process-time: 15m 46s 945.72 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_210.cnf
 s SATISFIABLE
-c process-time: 8m 16s 496.11 seconds
+c process-time: 10m 45s 644.91 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/20x36_220.cnf
 s SATISFIABLE
-c process-time: 18s 17.57 seconds
+c process-time: 22s 22.11 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/25x25_60.cnf
-c process-time: 29m 59s 1799.09 seconds
+c process-time: 29m 59s 1799.38 seconds
 UNKNOWN
 -----
 c input_v3/binary/cnf_ALO_v3/25x25_66.cnf
 s SATISFIABLE
-c process-time: 20s 19.71 seconds
+c process-time: 24s 23.84 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/25x25_72.cnf
 s SATISFIABLE
-c process-time: 6s 6.05 seconds
+c process-time: 7s 7.47 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/25x25_78.cnf
 s SATISFIABLE
-c process-time: 1m 16s 76.06 seconds
+c process-time: 1m 31s 91.03 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/25x42_110.cnf
 s SATISFIABLE
-c process-time: 22s 21.94 seconds
+c process-time: 25s 25.26 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/35x48_190.cnf
-c process-time: 30m 1799.53 seconds
+c process-time: 29m 59s 1799.31 seconds
 UNKNOWN
 -----
 c input_v3/binary/cnf_ALO_v3/6x6_120.cnf
@@ -1031,7 +1032,7 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/7x7_122.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/7x7_123.cnf
 s SATISFIABLE
@@ -1051,7 +1052,7 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/7x7_132.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/7x7_133.cnf
 s SATISFIABLE
@@ -1139,7 +1140,7 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/8x8_133.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/8x8_134.cnf
 s SATISFIABLE
@@ -1171,7 +1172,7 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/8x8_141.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/8x8_142.cnf
 s SATISFIABLE
@@ -1195,11 +1196,11 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_121.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_122.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_123.cnf
 s SATISFIABLE
@@ -1207,11 +1208,11 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_124.cnf
 s SATISFIABLE
-c process-time: 0.01 seconds
+c process-time: 0.02 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_130.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_131.cnf
 s SATISFIABLE
@@ -1219,7 +1220,7 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_132.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_133.cnf
 s SATISFIABLE
@@ -1227,7 +1228,7 @@ c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_134.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_135.cnf
 s SATISFIABLE
@@ -1239,7 +1240,7 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_137.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_138.cnf
 s SATISFIABLE
@@ -1259,7 +1260,7 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_142.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_143.cnf
 s SATISFIABLE
@@ -1267,11 +1268,11 @@ c process-time: 0.00 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_144.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 c input_v3/binary/cnf_ALO_v3/9x9_145.cnf
 s SATISFIABLE
-c process-time: 0.00 seconds
+c process-time: 0.01 seconds
 -----
 UNKNOWN
 -----
