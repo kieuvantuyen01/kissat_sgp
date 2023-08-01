@@ -3,7 +3,7 @@
 # There is a button select version_input (includes v4, v3 and defaults to v4)
 # There is a button select encoding_method(binary, commander, product, sequential and default is binary)
 # There is a button select type_encoding (ALO, noALO and default ALO)
-# There is an input type to enter the timeout (in ms units)
+# There is an input type to enter the timeout (default value is 900 ms)
 # Then generate the command:
 # ls input_[version_input]/[encoding_method]/cnf_[type_encoding]_[version_input]/*.cnf | xargs -n 1 ./build/kissat --time=[timeout] | ./process.py > output_[version_input]/[encoding_method]/[type_encoding]_[Datetime].txt
 # Then display this command in a text box 
@@ -37,7 +37,7 @@ class App:
         self.type_encoding = tk.StringVar()
         self.type_encoding.set("ALO")
         self.timeout = tk.StringVar()
-        self.timeout.set("10000")
+        self.timeout.set("900")
 
         self.version_input_label = ttk.Label(self.master, text="Version Input").grid(row=0, column=0)
         self.version_input_menu = ttk.OptionMenu(self.master, self.version_input, "v4", "v4", "v3")
