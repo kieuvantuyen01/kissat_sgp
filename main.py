@@ -5,7 +5,7 @@
 # There is a button select type_encoding (ALO, noALO and default ALO)
 # There is an input type to enter the timeout (in ms units)
 # Then generate the command:
-# ls input_[version_input]/[encoding_method]/cnf_[type_encoding]_[version_input]/*.cnf | xargs -n 1 ./build/kissat --time=[timeout] | ./process.py > output_[version_input]/[encoding_method]/[type_encoding]_$(date +%Y%m%d_%H%M%S).txt
+# ls input_[version_input]/[encoding_method]/cnf_[type_encoding]_[version_input]/*.cnf | xargs -n 1 ./build/kissat --time=[timeout] | ./process.py > output_[version_input]/[encoding_method]/[type_encoding]_[Datetime].txt
 # Then display this command in a text box 
 # There is a button to execute the command on Linux
 #
@@ -64,11 +64,11 @@ class App:
         self.command_text = tk.Text(self.master, height=20, width=100)
         self.command_text.grid(row=5, columnspan=2)
 
-        self.command_text.insert(tk.END, "ls input_" + self.version_input.get() + "/" + self.encoding_method.get() + "/cnf_" + self.type_encoding.get() + "_" + self.version_input.get() + "/*.cnf | xargs -n 1 ./build/kissat --time=" + self.timeout.get() + " | ./process.py > output_" + self.version_input.get() + "/" + self.encoding_method.get() + "/" + self.type_encoding.get() + "_$(date +%Y%m%d_%H%M%S).txt")
+        self.command_text.insert(tk.END, "ls input_" + self.version_input.get() + "/" + self.encoding_method.get() + "/cnf_" + self.type_encoding.get() + "_" + self.version_input.get() + "/*.cnf | xargs -n 1 ./build/kissat --time=" + self.timeout.get() + " | ./process.py > output_" + self.version_input.get() + "/" + self.encoding_method.get() + "/" + self.type_encoding.get() + "_" + datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt")
 
     def generate(self):
         self.command_text.delete('1.0', tk.END)
-        self.command_text.insert(tk.END, "ls input_" + self.version_input.get() + "/" + self.encoding_method.get() + "/cnf_" + self.type_encoding.get() + "_" + self.version_input.get() + "/*.cnf | xargs -n 1 ./build/kissat --time=" + self.timeout.get() + " | ./process.py > output_" + self.version_input.get() + "/" + self.encoding_method.get() + "/" + self.type_encoding.get() + "_$(date +%Y%m%d_%H%M%S).txt")
+        self.command_text.insert(tk.END, "ls input_" + self.version_input.get() + "/" + self.encoding_method.get() + "/cnf_" + self.type_encoding.get() + "_" + self.version_input.get() + "/*.cnf | xargs -n 1 ./build/kissat --time=" + self.timeout.get() + " | ./process.py > output_" + self.version_input.get() + "/" + self.encoding_method.get() + "/" + self.type_encoding.get() + "_" + datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt")
 
     def execute(self):
         self.generate()
@@ -83,4 +83,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
