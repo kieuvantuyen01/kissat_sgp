@@ -8,6 +8,15 @@ message = sys.stdin.read()
 def normalize(str_):
     return re.sub('\s+', ' ', str_).strip()
 
+# get substring from string
+# Example: 'c parsed 'p cnf 79916 603037' header' -> 'p 79916'
+def get_substring1(str_):
+    return ' '.join(str_.split(' ')[2:4])
+
+# get substring from string
+# Example: 'c parsed 'p cnf 79916 603037' header' -> 'cnf 603037'
+def get_substring2(str_):
+    return ' '.join(str_.split(' ')[3:5])
 
 def handleOne(message):
     result = []
@@ -17,6 +26,10 @@ def handleOne(message):
         for i in range(number_lines):
             if lines[i].startswith('c opened and reading DIMACS file:'):
                 result.append(normalize(lines[i + 2]))
+            # if lines[i] starts with 'c parsed 'p cnf '
+            if lines[i].startswith('c parsed \'p cnf '):
+                result.append(get_substring1(lines[i]))
+                result.append(get_substring2(lines[i]))
             if lines[i].startswith('c ---- [ result ]'):
                 result_text = normalize(lines[i + 2])
                 result.append(result_text)
@@ -30,6 +43,10 @@ def handleOne(message):
         for i in range(number_lines):
             if lines[i].startswith('c opened and reading DIMACS file:'):
                 result.append(normalize(lines[i + 2]))
+            # if lines[i] starts with 'c parsed 'p cnf '
+            if lines[i].startswith('c parsed \'p cnf '):
+                result.append(get_substring1(lines[i]))
+                result.append(get_substring2(lines[i]))
             if lines[i].startswith('c process-time'):
                 result.append(normalize(lines[i]))
         result.append('UNKNOWN')

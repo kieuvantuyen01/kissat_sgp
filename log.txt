@@ -1,0 +1,2 @@
+/home/anh/kissat_arminbiere/start.sh: line 3: xargs: command not found
+/home/anh/kissat_arminbiere/start.sh: line 3: ls: command not found
