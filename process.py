@@ -9,14 +9,34 @@ def normalize(str_):
     return re.sub('\s+', ' ', str_).strip()
 
 # get substring from string
-# Example: 'c parsed 'p cnf 79916 603037' header' -> 'p 79916'
-def get_substring1(str_):
-    return ' '.join(str_.split(' ')[2:4])
+# Example: 'c parsed \'p cnf 79916 603037' header' -> p 79916
+def get_substring1(input_string):
+    start_index = input_string.find('parsed') + len('parsed')
+    end_index = input_string.find('header', start_index)
+    if start_index >= 0 and end_index >= 0:
+        substring = input_string[start_index:end_index].strip()
+        # remove "'" in substring
+        substring = substring.replace("'", "")
+        elements = substring.split()
+        # return string is joined by 1st and 3rd elements of elements
+        return ' '.join([elements[1], elements[3]])        
+    else:
+        return None
 
 # get substring from string
 # Example: 'c parsed 'p cnf 79916 603037' header' -> 'cnf 603037'
-def get_substring2(str_):
-    return ' '.join(str_.split(' ')[3:5])
+def get_substring2(input_string):
+    start_index = input_string.find('parsed') + len('parsed')
+    end_index = input_string.find('header', start_index)
+    if start_index >= 0 and end_index >= 0:
+        substring = input_string[start_index:end_index].strip()
+        # remove "'" in substring
+        substring = substring.replace("'", "")
+        elements = substring.split()
+        # return string is joined by 2nd and 4th elements of elements
+        return ' '.join([elements[2], elements[4]])        
+    else:
+        return None
 
 def handleOne(message):
     result = []
