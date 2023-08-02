@@ -19,7 +19,7 @@ def get_substring1(input_string):
         substring = substring.replace("'", "")
         elements = substring.split()
         # return string is joined by 1st and 3rd elements of elements
-        return ' '.join([elements[0], elements[2]]) if len(elements) >= 3 else None       
+        return 'c '.join([elements[0], elements[2]]) if len(elements) >= 3 else None       
     else:
         return None
 
@@ -34,7 +34,7 @@ def get_substring2(input_string):
         substring = substring.replace("'", "")
         elements = substring.split()
         # return string is joined by 2nd and 4th elements of elements
-        return ' '.join([elements[1], elements[3]]) if len(elements) >= 4 else None  
+        return 'c '.join([elements[1], elements[3]]) if len(elements) >= 4 else None  
     else:
         return None
 
