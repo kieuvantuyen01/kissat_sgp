@@ -11,4 +11,4 @@ tissat
 gmon.out
 *~
 # ignore all files in folder path
-path/*
+path
