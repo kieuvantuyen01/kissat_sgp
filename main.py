@@ -61,6 +61,10 @@ class App:
         self.execute_button = ttk.Button(self.master, text="Execute", command=self.execute)
         self.execute_button.grid(row=4, column=1)
 
+        # add Kill button to kill kissat process
+        self.kill_button = ttk.Button(self.master, text="Kill", command=self.kill)
+        self.kill_button.grid(row=4, column=2)
+
         self.command_text = tk.Text(self.master, height=20, width=100)
         self.command_text.grid(row=5, columnspan=2)
 
@@ -75,6 +79,9 @@ class App:
         command = self.command_text.get("1.0", tk.END)
         print(command)
         os.system(command)
+
+    def kill(self):
+        os.system("killall kissat")
 
 def main():
     root = tk.Tk()
