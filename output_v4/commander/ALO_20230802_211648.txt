@@ -1,0 +1,1917 @@
+c input_v4/commander/cnf_ALO_v4/10x10_120.cnf
+c p 1240
+c cnf 7872
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_121.cnf
+c p 1240
+c cnf 7688
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_122.cnf
+c p 1240
+c cnf 7743
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_123.cnf
+c p 1334
+c cnf 8608
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_124.cnf
+c p 1240
+c cnf 7706
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_130.cnf
+c p 1240
+c cnf 7577
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_131.cnf
+c p 968
+c cnf 6575
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_132.cnf
+c p 1146
+c cnf 7121
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_133.cnf
+c p 1334
+c cnf 8731
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_134.cnf
+c p 968
+c cnf 6604
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_135.cnf
+c p 1146
+c cnf 7088
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_136.cnf
+c p 1240
+c cnf 7780
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_137.cnf
+c p 1240
+c cnf 7780
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_138.cnf
+c p 1334
+c cnf 8649
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_139.cnf
+c p 1146
+c cnf 7006
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_140.cnf
+c p 1334
+c cnf 8526
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_141.cnf
+c p 1240
+c cnf 7853
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_142.cnf
+c p 1240
+c cnf 7798
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_143.cnf
+c p 1146
+c cnf 6989
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_144.cnf
+c p 1334
+c cnf 8363
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x10_145.cnf
+c p 1334
+c cnf 8485
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_387.cnf
+c p 1890
+c cnf 12627
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_388.cnf
+c p 1746
+c cnf 11661
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_389.cnf
+c p 1468
+c cnf 10597
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_390.cnf
+c p 1890
+c cnf 12812
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_396.cnf
+c p 1468
+c cnf 10612
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_397.cnf
+c p 1746
+c cnf 11479
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_398.cnf
+c p 1468
+c cnf 10583
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_399.cnf
+c p 1746
+c cnf 11495
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x15_400.cnf
+c p 1468
+c cnf 10612
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_186.cnf
+c p 2802
+c cnf 20294
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_187.cnf
+c p 2280
+c cnf 15860
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_198.cnf
+c p 3472
+c cnf 24137
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_199.cnf
+c p 2802
+c cnf 20440
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_200.cnf
+c p 2628
+c cnf 18746
+s SATISFIABLE
+c process-time: 0.08 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_208.cnf
+c p 2976
+c cnf 22466
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_209.cnf
+c p 2628
+c cnf 19060
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_414.cnf
+c p 3644
+c cnf 25306
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_415.cnf
+c p 3472
+c cnf 23894
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_416.cnf
+c p 2280
+c cnf 15675
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/10x18_417.cnf
+c p 2628
+c cnf 18702
+s SATISFIABLE
+c process-time: 0.09 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_120.cnf
+c p 1743
+c cnf 11565
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_121.cnf
+c p 1398
+c cnf 8882
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_122.cnf
+c p 1178
+c cnf 8309
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_123.cnf
+c p 1743
+c cnf 11566
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_124.cnf
+c p 1743
+c cnf 11521
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_130.cnf
+c p 1513
+c cnf 9835
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_131.cnf
+c p 1743
+c cnf 11476
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_132.cnf
+c p 1628
+c cnf 10892
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_133.cnf
+c p 1513
+c cnf 9854
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_134.cnf
+c p 1743
+c cnf 11566
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_135.cnf
+c p 1743
+c cnf 11431
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_136.cnf
+c p 1178
+c cnf 8237
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_137.cnf
+c p 1743
+c cnf 11767
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_138.cnf
+c p 1743
+c cnf 11566
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_139.cnf
+c p 1398
+c cnf 8882
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_140.cnf
+c p 1743
+c cnf 11745
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_141.cnf
+c p 1398
+c cnf 8898
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_142.cnf
+c p 1513
+c cnf 9780
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_143.cnf
+c p 1398
+c cnf 8997
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_144.cnf
+c p 1513
+c cnf 9780
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/11x11_145.cnf
+c p 1513
+c cnf 9872
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_120.cnf
+c p 2364
+c cnf 16916
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_121.cnf
+c p 1812
+c cnf 12127
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_122.cnf
+c p 2226
+c cnf 15723
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_123.cnf
+c p 1950
+c cnf 13460
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_124.cnf
+c p 2226
+c cnf 15650
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_130.cnf
+c p 2226
+c cnf 15649
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_131.cnf
+c p 1812
+c cnf 12219
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_132.cnf
+c p 2226
+c cnf 15478
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_133.cnf
+c p 2226
+c cnf 15356
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_134.cnf
+c p 2088
+c cnf 14657
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_135.cnf
+c p 1950
+c cnf 13399
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_136.cnf
+c p 2088
+c cnf 14432
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_137.cnf
+c p 1950
+c cnf 13481
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_138.cnf
+c p 1950
+c cnf 13481
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_139.cnf
+c p 2088
+c cnf 14410
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_140.cnf
+c p 1950
+c cnf 13338
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_141.cnf
+c p 1950
+c cnf 13542
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_142.cnf
+c p 1674
+c cnf 11002
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_143.cnf
+c p 2364
+c cnf 16783
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_144.cnf
+c p 1812
+c cnf 12219
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x12_145.cnf
+c p 1950
+c cnf 13420
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x15_39.cnf
+c p 3150
+c cnf 23539
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x15_43.cnf
+c p 2802
+c cnf 20471
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x15_45.cnf
+c p 2280
+c cnf 15755
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x15_46.cnf
+c p 2454
+c cnf 17486
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/12x23_210.cnf
+c p 7536
+c cnf 60721
+s SATISFIABLE
+c process-time: 0.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_120.cnf
+c p 2626
+c cnf 19165
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_121.cnf
+c p 2463
+c cnf 17453
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_122.cnf
+c p 2137
+c cnf 14729
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_123.cnf
+c p 2789
+c cnf 20586
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_124.cnf
+c p 2626
+c cnf 19018
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_130.cnf
+c p 2626
+c cnf 19091
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_131.cnf
+c p 2463
+c cnf 17633
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_132.cnf
+c p 2789
+c cnf 20560
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_133.cnf
+c p 2463
+c cnf 17543
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_134.cnf
+c p 2300
+c cnf 16253
+s SATISFIABLE
+c process-time: 0.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_135.cnf
+c p 2463
+c cnf 17431
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_136.cnf
+c p 2626
+c cnf 18945
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_137.cnf
+c p 2626
+c cnf 18945
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_138.cnf
+c p 2789
+c cnf 20507
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_139.cnf
+c p 2952
+c cnf 21824
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_140.cnf
+c p 2463
+c cnf 17880
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_141.cnf
+c p 2300
+c cnf 16458
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_142.cnf
+c p 2300
+c cnf 16171
+s SATISFIABLE
+c process-time: 0.10 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_143.cnf
+c p 2300
+c cnf 16253
+s SATISFIABLE
+c process-time: 0.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_144.cnf
+c p 2952
+c cnf 21995
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/13x13_145.cnf
+c p 2789
+c cnf 20613
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_120.cnf
+c p 3248
+c cnf 24656
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_121.cnf
+c p 3438
+c cnf 26399
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_122.cnf
+c p 3438
+c cnf 26370
+s SATISFIABLE
+c process-time: 0.05 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_123.cnf
+c p 3058
+c cnf 22679
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_124.cnf
+c p 3248
+c cnf 24629
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_130.cnf
+c p 3058
+c cnf 22947
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_131.cnf
+c p 3438
+c cnf 26399
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_132.cnf
+c p 3792
+c cnf 27154
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_133.cnf
+c p 3792
+c cnf 26849
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_134.cnf
+c p 3438
+c cnf 26313
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_135.cnf
+c p 2868
+c cnf 21099
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_136.cnf
+c p 2868
+c cnf 21054
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_137.cnf
+c p 3438
+c cnf 26228
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_138.cnf
+c p 3438
+c cnf 26598
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_139.cnf
+c p 3248
+c cnf 24920
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_140.cnf
+c p 3792
+c cnf 27123
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_141.cnf
+c p 3792
+c cnf 26819
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_142.cnf
+c p 3438
+c cnf 26456
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_143.cnf
+c p 3438
+c cnf 26143
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_144.cnf
+c p 2868
+c cnf 21054
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x14_145.cnf
+c p 3792
+c cnf 27092
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_105.cnf
+c p 8560
+c cnf 70896
+s SATISFIABLE
+c process-time: 0.13 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_110.cnf
+c p 7904
+c cnf 63690
+s SATISFIABLE
+c process-time: 1s 0.74 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_113.cnf
+c p 9216
+c cnf 77365
+s SATISFIABLE
+c process-time: 0.19 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_117.cnf
+c p 7576
+c cnf 61441
+s SATISFIABLE
+c process-time: 0.41 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_129.cnf
+c p 7904
+c cnf 63805
+s SATISFIABLE
+c process-time: 1s 0.51 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_139.cnf
+c p 7904
+c cnf 63921
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_147.cnf
+c p 8232
+c cnf 66990
+s SATISFIABLE
+c process-time: 0.36 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_148.cnf
+c p 5958
+c cnf 49165
+s SATISFIABLE
+c process-time: 0.23 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_157.cnf
+c p 6592
+c cnf 50842
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_158.cnf
+c p 5298
+c cnf 41932
+s SATISFIABLE
+c process-time: 1s 1.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_169.cnf
+c p 5958
+c cnf 49023
+s SATISFIABLE
+c process-time: 1s 0.82 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_179.cnf
+c p 5298
+c cnf 42054
+s SATISFIABLE
+c process-time: 4s 4.35 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_188.cnf
+c p 8560
+c cnf 71278
+s SATISFIABLE
+c process-time: 0.16 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_189.cnf
+c p 10156
+c cnf 80640
+s SATISFIABLE
+c process-time: 0.32 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_190.cnf
+c p 5298
+c cnf 41981
+s SATISFIABLE
+c process-time: 48s 47.96 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_199.cnf
+c p 4968
+c cnf 38445
+s SATISFIABLE
+c process-time: 3s 2.72 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_200.cnf
+c p 5628
+c cnf 45830
+s SATISFIABLE
+c process-time: 0.35 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_208.cnf
+c p 7904
+c cnf 63767
+s SATISFIABLE
+c process-time: 0.11 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_209.cnf
+c p 5628
+c cnf 45883
+s SATISFIABLE
+c process-time: 0.35 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_218.cnf
+c p 7904
+c cnf 64036
+s SATISFIABLE
+c process-time: 0.18 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_219.cnf
+c p 5958
+c cnf 48994
+s SATISFIABLE
+c process-time: 1s 0.86 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_418.cnf
+c p 7248
+c cnf 57957
+s SATISFIABLE
+c process-time: 0.12 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_419.cnf
+c p 9216
+c cnf 77040
+s SATISFIABLE
+c process-time: 0.13 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/14x24_420.cnf
+c p 5628
+c cnf 45856
+s SATISFIABLE
+c process-time: 6s 5.91 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_120.cnf
+c p 4372
+c cnf 32150
+s SATISFIABLE
+c process-time: 0.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_121.cnf
+c p 3522
+c cnf 26778
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_122.cnf
+c p 3960
+c cnf 31005
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_123.cnf
+c p 4372
+c cnf 31906
+s SATISFIABLE
+c process-time: 0.08 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_124.cnf
+c p 4372
+c cnf 31876
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_130.cnf
+c p 3960
+c cnf 31033
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_131.cnf
+c p 4372
+c cnf 31784
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_132.cnf
+c p 4372
+c cnf 31906
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_133.cnf
+c p 4372
+c cnf 31754
+s SATISFIABLE
+c process-time: 0.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_134.cnf
+c p 3741
+c cnf 29125
+s SATISFIABLE
+c process-time: 0.08 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_135.cnf
+c p 4372
+c cnf 31906
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_136.cnf
+c p 4372
+c cnf 32058
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_137.cnf
+c p 4372
+c cnf 32119
+s SATISFIABLE
+c process-time: 0.10 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_138.cnf
+c p 4372
+c cnf 31906
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_139.cnf
+c p 3960
+c cnf 30948
+s SATISFIABLE
+c process-time: 0.14 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_140.cnf
+c p 4372
+c cnf 31967
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_141.cnf
+c p 4372
+c cnf 31967
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_142.cnf
+c p 4372
+c cnf 31815
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_143.cnf
+c p 4372
+c cnf 32241
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_144.cnf
+c p 4372
+c cnf 32059
+s SATISFIABLE
+c process-time: 0.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x15_145.cnf
+c p 3960
+c cnf 31175
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_307.cnf
+c p 4134
+c cnf 31422
+s SATISFIABLE
+c process-time: 5s 4.92 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_308.cnf
+c p 4428
+c cnf 34035
+s SATISFIABLE
+c process-time: 0.18 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_309.cnf
+c p 4134
+c cnf 31586
+s SATISFIABLE
+c process-time: 3s 2.81 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_310.cnf
+c p 5310
+c cnf 43191
+s SATISFIABLE
+c process-time: 1s 0.68 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_317.cnf
+c p 5310
+c cnf 43020
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_318.cnf
+c p 5310
+c cnf 43077
+s SATISFIABLE
+c process-time: 0.34 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_319.cnf
+c p 5016
+c cnf 40300
+s SATISFIABLE
+c process-time: 4s 4.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/15x20_320.cnf
+c p 5016
+c cnf 40379
+s SATISFIABLE
+c process-time: 0.16 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_100.cnf
+c p 4263
+c cnf 32668
+s SATISFIABLE
+c process-time: 0.44 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_104.cnf
+c p 6776
+c cnf 53858
+s SATISFIABLE
+c process-time: 0.12 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_109.cnf
+c p 6495
+c cnf 51698
+s SATISFIABLE
+c process-time: 0.37 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_112.cnf
+c p 7057
+c cnf 56390
+s SATISFIABLE
+c process-time: 0.04 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_116.cnf
+c p 6214
+c cnf 48438
+s SATISFIABLE
+c process-time: 0.10 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_120.cnf
+c p 4546
+c cnf 35535
+s SATISFIABLE
+c process-time: 1s 0.77 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_128.cnf
+c p 4546
+c cnf 35829
+s SATISFIABLE
+c process-time: 0.32 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_136.cnf
+c p 6495
+c cnf 51989
+s SATISFIABLE
+c process-time: 0.23 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_138.cnf
+c p 4263
+c cnf 32578
+s SATISFIABLE
+c process-time: 1s 1.09 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_165.cnf
+c p 4546
+c cnf 35535
+s SATISFIABLE
+c process-time: 1s 0.71 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_166.cnf
+c p 4263
+c cnf 32578
+s SATISFIABLE
+c process-time: 3s 2.52 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_167.cnf
+c p 8978
+c cnf 71219
+s SATISFIABLE
+c process-time: 0.05 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_168.cnf
+c p 9536
+c cnf 76935
+s SATISFIABLE
+c process-time: 0.03 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_175.cnf
+c p 3697
+c cnf 27187
+s SATISFIABLE
+c process-time: 8s 8.24 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_176.cnf
+c p 3414
+c cnf 24331
+s SATISFIABLE
+c process-time: 1s 0.64 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_177.cnf
+c p 7338
+c cnf 59890
+s SATISFIABLE
+c process-time: 1s 0.99 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_178.cnf
+c p 8420
+c cnf 65857
+s SATISFIABLE
+c process-time: 1s 0.64 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_187.cnf
+c p 3980
+c cnf 30209
+s SATISFIABLE
+c process-time: 1s 1.17 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_188.cnf
+c p 4263
+c cnf 32623
+s SATISFIABLE
+c process-time: 0.23 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_197.cnf
+c p 4263
+c cnf 32668
+s SATISFIABLE
+c process-time: 1s 1.41 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_198.cnf
+c p 3697
+c cnf 27021
+s SATISFIABLE
+c process-time: 7s 7.02 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_230.cnf
+c p 2573
+c cnf 19310
+s SATISFIABLE
+c process-time: 5s 5.10 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_240.cnf
+c p 3697
+c cnf 27113
+s SATISFIABLE
+c process-time: 2s 1.88 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_250.cnf
+c p 10652
+c cnf 85844
+s SATISFIABLE
+c process-time: 0.06 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_260.cnf
+c p 10652
+c cnf 86876
+s SATISFIABLE
+c process-time: 0.05 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_270.cnf
+c p 9536
+c cnf 77161
+s SATISFIABLE
+c process-time: 0.27 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_429.cnf
+c p 6495
+c cnf 51807
+s SATISFIABLE
+c process-time: 0.01 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_439.cnf
+c p 4263
+c cnf 32713
+s SATISFIABLE
+c process-time: 1s 1.11 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/17x17_449.cnf
+c p 5933
+c cnf 45676
+s SATISFIABLE
+c process-time: 0.34 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x20_430.cnf
+c p 12140
+c cnf 100550
+s SATISFIABLE
+c process-time: 2s 2.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x20_440.cnf
+c p 6322
+c cnf 51068
+s SATISFIABLE
+c process-time: 12s 12.15 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x20_450.cnf
+c p 7872
+c cnf 61616
+s SATISFIABLE
+c process-time: 7s 6.71 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_106.cnf
+c p 30516
+c cnf 279264
+s SATISFIABLE
+c process-time: 8s 8.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_114.cnf
+c p 30516
+c cnf 279627
+s SATISFIABLE
+c process-time: 6s 5.83 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_118.cnf
+c p 25610
+c cnf 236789
+s SATISFIABLE
+c process-time: 3m 6s 185.71 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_130.cnf
+c p 25610
+c cnf 236850
+s SATISFIABLE
+c process-time: 10s 10.40 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_140.cnf
+c p 25610
+c cnf 236910
+s SATISFIABLE
+c process-time: 38s 38.27 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_149.cnf
+c p 23480
+c cnf 212853
+s SATISFIABLE
+c process-time: 38s 38.38 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_150.cnf
+c p 18544
+c cnf 167441
+s SATISFIABLE
+c process-time: 9m 59s 599.10 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_159.cnf
+c p 25610
+c cnf 237031
+s SATISFIABLE
+c process-time: 2m 40s 159.57 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_160.cnf
+c p 18544
+c cnf 167441
+c process-time: 15m 899.79 seconds
+UNKNOWN
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_170.cnf
+c p 27030
+c cnf 256573
+s SATISFIABLE
+c process-time: 1m 28s 87.98 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_180.cnf
+c p 18544
+c cnf 167526
+s SATISFIABLE
+c process-time: 2m 50s 170.18 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_210.cnf
+c p 27030
+c cnf 256573
+s SATISFIABLE
+c process-time: 1m 27s 86.76 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/20x36_220.cnf
+c p 30516
+c cnf 278612
+s SATISFIABLE
+c process-time: 25s 24.63 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/25x25_60.cnf
+c p 18500
+c cnf 159222
+s SATISFIABLE
+c process-time: 5m 24s 324.07 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/25x25_66.cnf
+c p 21575
+c cnf 194776
+s SATISFIABLE
+c process-time: 10s 10.49 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/25x25_72.cnf
+c p 27657
+c cnf 253660
+s SATISFIABLE
+c process-time: 4s 4.44 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/25x25_78.cnf
+c p 22190
+c cnf 202194
+s SATISFIABLE
+c process-time: 20s 20.30 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/25x42_110.cnf
+c p 71582
+c cnf 759950
+s SATISFIABLE
+c process-time: 9s 9.25 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/35x48_190.cnf
+c p 76800
+c cnf 781348
+c process-time: 15m 900.08 seconds
+UNKNOWN
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_120.cnf
+c p 200
+c cnf 970
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_121.cnf
+c p 264
+c cnf 1310
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_122.cnf
+c p 232
+c cnf 1134
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_123.cnf
+c p 232
+c cnf 1201
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_124.cnf
+c p 232
+c cnf 1125
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_125.cnf
+c p 232
+c cnf 1151
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_130.cnf
+c p 200
+c cnf 970
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_131.cnf
+c p 264
+c cnf 1300
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_132.cnf
+c p 200
+c cnf 957
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_133.cnf
+c p 264
+c cnf 1269
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_134.cnf
+c p 264
+c cnf 1290
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_135.cnf
+c p 200
+c cnf 957
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_136.cnf
+c p 200
+c cnf 995
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_137.cnf
+c p 232
+c cnf 1192
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_138.cnf
+c p 232
+c cnf 1176
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_139.cnf
+c p 232
+c cnf 1134
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_140.cnf
+c p 296
+c cnf 1414
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_141.cnf
+c p 200
+c cnf 957
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_142.cnf
+c p 232
+c cnf 1142
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_143.cnf
+c p 264
+c cnf 1320
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_144.cnf
+c p 264
+c cnf 1332
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/6x6_145.cnf
+c p 232
+c cnf 1151
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_120.cnf
+c p 368
+c cnf 1921
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_121.cnf
+c p 413
+c cnf 2327
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_122.cnf
+c p 413
+c cnf 2364
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_123.cnf
+c p 323
+c cnf 1684
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_124.cnf
+c p 368
+c cnf 1994
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_130.cnf
+c p 278
+c cnf 1477
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_131.cnf
+c p 368
+c cnf 2046
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_132.cnf
+c p 458
+c cnf 2557
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_133.cnf
+c p 368
+c cnf 2077
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_134.cnf
+c p 323
+c cnf 1726
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_135.cnf
+c p 413
+c cnf 2401
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_136.cnf
+c p 323
+c cnf 1718
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_137.cnf
+c p 323
+c cnf 1743
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_138.cnf
+c p 368
+c cnf 2015
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_139.cnf
+c p 368
+c cnf 2046
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_140.cnf
+c p 368
+c cnf 1984
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_141.cnf
+c p 368
+c cnf 1994
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_142.cnf
+c p 368
+c cnf 2015
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_143.cnf
+c p 413
+c cnf 2402
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_144.cnf
+c p 368
+c cnf 2015
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/7x7_145.cnf
+c p 368
+c cnf 1983
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_120.cnf
+c p 608
+c cnf 3648
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_121.cnf
+c p 608
+c cnf 3649
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_122.cnf
+c p 608
+c cnf 3764
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_123.cnf
+c p 608
+c cnf 3605
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_124.cnf
+c p 488
+c cnf 2952
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_130.cnf
+c p 488
+c cnf 2837
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_131.cnf
+c p 608
+c cnf 3648
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_132.cnf
+c p 548
+c cnf 3218
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_133.cnf
+c p 488
+c cnf 2879
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_134.cnf
+c p 608
+c cnf 3576
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_135.cnf
+c p 488
+c cnf 2827
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_136.cnf
+c p 548
+c cnf 3243
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_137.cnf
+c p 608
+c cnf 3648
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_138.cnf
+c p 428
+c cnf 2458
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_139.cnf
+c p 608
+c cnf 3605
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_140.cnf
+c p 548
+c cnf 3318
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_141.cnf
+c p 608
+c cnf 3749
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_142.cnf
+c p 548
+c cnf 3280
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_143.cnf
+c p 714
+c cnf 3966
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_144.cnf
+c p 548
+c cnf 3330
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/8x8_145.cnf
+c p 608
+c cnf 3735
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_120.cnf
+c p 701
+c cnf 4448
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_121.cnf
+c p 918
+c cnf 5372
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_122.cnf
+c p 918
+c cnf 5323
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_123.cnf
+c p 778
+c cnf 4944
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_124.cnf
+c p 993
+c cnf 5943
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_130.cnf
+c p 918
+c cnf 5356
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_131.cnf
+c p 993
+c cnf 5832
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_132.cnf
+c p 993
+c cnf 5887
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_133.cnf
+c p 918
+c cnf 5422
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_134.cnf
+c p 701
+c cnf 4523
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_135.cnf
+c p 778
+c cnf 5045
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_136.cnf
+c p 778
+c cnf 5060
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_137.cnf
+c p 701
+c cnf 4423
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_138.cnf
+c p 778
+c cnf 5074
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_139.cnf
+c p 918
+c cnf 5257
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_140.cnf
+c p 918
+c cnf 5504
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_141.cnf
+c p 701
+c cnf 4435
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_142.cnf
+c p 993
+c cnf 5906
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_143.cnf
+c p 778
+c cnf 5089
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_144.cnf
+c p 918
+c cnf 5372
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+c input_v4/commander/cnf_ALO_v4/9x9_145.cnf
+c p 778
+c cnf 5002
+s SATISFIABLE
+c process-time: 0.00 seconds
+-----
+UNKNOWN
+-----
+
