@@ -40,11 +40,11 @@ class App:
         self.timeout.set("900")
 
         self.version_input_label = ttk.Label(self.master, text="Version Input").grid(row=0, column=0)
-        self.version_input_menu = ttk.OptionMenu(self.master, self.version_input, "v4", "v4", "v3")
+        self.version_input_menu = ttk.OptionMenu(self.master, self.version_input, "v4", "v4", "v3", "v2")
         self.version_input_menu.grid(row=0, column=1)
 
         self.encoding_method_label = ttk.Label(self.master, text="Encoding Method").grid(row=1, column=0)
-        self.encoding_method_menu = ttk.OptionMenu(self.master, self.encoding_method, "binary", "binary", "commander", "product", "sequential")
+        self.encoding_method_menu = ttk.OptionMenu(self.master, self.encoding_method, "binary", "binary", "commander", "product", "sequential", "binomial")
         self.encoding_method_menu.grid(row=1, column=1)
 
         self.type_encoding_label = ttk.Label(self.master, text="Type Encoding").grid(row=2, column=0)
